@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .left
+        {
+            height:700px;
+            width: 600px;
+            background-color: rgb(191, 136, 17);
+            position: relative;
+            float:left;
+            text-align: center;
+            top:0px;
+            align-content: center;
+            color:brown;
+            float: left;
+        }
+        .right
+        {
+            height:700px;
+            width:900px;
+            background-color:rgb(191, 136, 17);
+            position:absolute;
+            left:600px;
+            /* right:0px;
+            text-align: center; */
+            justify-content: center;
+            display: flex;
+        }
+         h2
+        {
+            position: absolute;
+            align-content: center;
+            left:290px;
+            top:120px;
+    
+        } 
+        .email
+        {
+            height:50px;
+            width:500px;
+            position: relative;
+            background-color: white;
+            top:0px;
+            font-weight: lighter;
+            color: lightgray;
+            /* justify-content: center; */
+            vertical-align: middle;
+            padding-top: 10px;
+            margin:auto;
+           float: left;
+           
+        }
+        .button
+        {
+            height:50px;
+            width:500px;
+            position: relative;
+            border-radius: 15px;
+            background-color: brown;
+            color: white;
+            left:0px;
+            top:515px;
+            text-align: center;
+            font-weight: bold;
+            padding-top: 20px;
+        }
+        .labelemail
+        {
+            position:absolute;
+            top:200px;
+            font-size: large;
+            margin: 50px;
+        }
+        .labelpwd
+        {
+                position: absolute;
+                top:360px;
+                left:200px;
+                font-size: large;
+                display: flex;
+        }
+        .password
+        {
+            height:50px;
+            width:500px;
+            position: absolute;
+            background-color: white;
+            top:30px;
+            font-weight: lighter;
+            color: lightgray;
+            vertical-align: middle;
+            padding-top: 10px;
+            margin:auto;
+            float: left;
+        }
+        .eye
+        {
+            position: absolute;
+            top:5px;
+            left:450px;
+        }
+        .forgot
+        {
+            position: absolute;
+            top:475px;
+            left:578px;
+            /* background-color: antiquewhite; */
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <div class="left">
+            <h1>Jobie</h1>
+            <img src="images/main.png" height="600px" width="650px">
+        </div>
+        <!-- <span> -->
+            <div class="right">
+                <h2>Sign in to Admin Dashboard</h2><br>
+                <div class="labelemail">
+                    <label>Email</label><br>
+                    <div class="email">Input your email here</div>
+
+                    <!-- <label class="labelpwd">Password</label><br>
+                    <div class="email">
+                        Input your password here            <div class="eye"><img src="images/closed-eye" height="40px" width="30px"></div>
+                    </div> -->
+                </div>
+                <div class="labelpwd">
+                    <label>Password</label>
+                    <div class="password">Input your password here<div class="eye"><img src="images/closed-eye" height="40px" width="30px"></div></div>
+                </div>
+                <div class="forgot">
+                    Forgot Password *
+                </div>
+                <div class="button">
+                    Submit
+                </div>
+            </div>
+        <!-- </span> -->
+    </div>
+</body>
+</html>
