@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* bouncing a ball */
+        .ball
+        {
+            width: 50px;
+            height: 50px;
+            background-color: blueviolet;
+            border-radius: 50%;
+            position: relative;
+            top:100px;
+            left:100px;
+            animation: bounce 2s infinite;
+            
+            /* animation-name: bounce;
+            animation-duration: 4s;
+            animation-delay: 1s; */
+        }
+        @keyframes bounce
+        {
+
+
+            from{left:100px;top:100px;}
+            /* 10% {left:100px;top:90px;}
+            20% {left:100px;top:80px;}
+            30% {left:100px;top:70px;}
+            40% {left:100px;top:60px;} */
+            /* 50% {left:100px;top:0px;}
+            60% {left:100px;top:80px;}
+            70%{left:100px;top:90px;}
+            80%{left:100px;top:100px;}
+            90%{left:100px;top:90px;} */
+            to{left:100px;top:0px;}
+        }
+/* Fade an element in and out */
+        .fade_element
+        {
+            width: 260px;
+            height:100px;
+            position:relative;
+            top:200px;
+            left:300px;
+            background-color: lightgreen;
+            opacity: 0.5;
+            animation: fade_box 5s 2 ;
+        }
+        @keyframes fade_box 
+        {
+            from{opacity:0.5;}
+            to{opacity: 4;}    
+        }
+        /* Sliding a text */
+        .slide_text
+        {
+            width:200px;
+            height:50px ;
+            position: relative;
+            top:50px;
+            color:blue;
+            font-size: larger;
+            font-weight: bold;
+            animation: slide 10s 2;
+        }
+        @keyframes slide 
+        {
+            from{left: 20px;}
+            to{left:250px;} 
+        }
+    </style>
+    <title>Document-Animation Activities</title>
+</head>
+<body>
+    <div class="ball"></div>
+    <div class="fade_element"></div>
+    <div class="slide_text">Sliding Now!</div>
+</body>
+</html>
