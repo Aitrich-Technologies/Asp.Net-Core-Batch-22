@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .nav_bar
+        {
+            width:200px;
+            height:20px;
+            background-color: rgb(207, 179, 233);
+            position:relative;
+            left:50px;
+            display: inline;
+            color:white;
+        }
+        #div_top,#div_side
+        {
+            display: flex;
+        }
+        ul
+        {
+            background-color: rgb(207, 179, 233);
+            color:white
+        }
+
+        @media screen and (max-width: 600px) 
+        {
+        #div_top{
+            visibility:hidden;
+            }
+        }
+
+        @media screen and (min-width: 600px) 
+        {
+        #div_side{
+            visibility:hidden;
+            }
+        }
+        
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div id="div_top">
+        <nav class="nav_bar"><a href="activity1.html"> Home</a></nav>
+        <nav class="nav_bar"><a href="activity2.html">My Profile</a></nav>
+        <nav class="nav_bar"><a href="activity3.html"> Settings</a></nav>
+    </div>
+    <div id="div_side">
+        <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+       .div1
+       {
+        width:485px;
+        height:700px;
+        background-color: antiquewhite;
+        float:left;
+       }
+       .div2
+       {
+        width:485px;
+        height:700px;
+        background-color: rgb(236, 159, 58);
+        float:left;
+       }
+       .div3
+       {
+        width:485px;
+        height:700px;
+        background-color: rgb(28, 135, 141);
+        float:left;
+       }
+       @media only screen and (max-width: 768px)
+       {
+        .div3{
+        display:none;}
+       }
+       @media only screen and (max-width: 768px)
+       {
+        .div3{
+        display:none;}
+        .div2{display: none;}
+        .div1{background-color: brown;}
+       }
+
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div class="div1"></div>
+    <div class="div2"></div>
+    <div class="div3"></div>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <style>
+        .rotate_box
+        {
+            width:200px;
+            height: 50px;
+            position: relative;
+            top:60px;
+            left:50px;
+            background-color: blue;
+           transform: rotate(45deg);
+        }
+        .scale_hover
+        {
+            width:100px;
+            height:100px;
+            position: relative;
+            top:100px;
+            left: 300px;
+            background-color: lightblue;
+        }
+        .scale_hover:hover
+        {
+            /* transition: 3s; */
+            background-color: bisque;
+            transform: scale(2);
+        }
+        .smooth_hover
+        {
+            width:100px;
+            height:100px;
+            position: relative;
+            top:200px;
+            left:300px;
+            background-color: lightcoral;
+        }
+        .smooth_hover:hover
+        {
+            transition:4s;
+            background-color: lightseagreen;
+            transform: scale(1.5);
+        }
+        .border_change
+        {
+            width:200px;
+            height:50px;
+            border:2px solid green;
+            background-color: brown;
+            color: white;
+            position: relative;
+            left:600px;
+        }
+        .border_change:hover
+        {
+            transition: 4s;
+            border:5px solid navy;
+            background-color: lightgreen;
+            width:300px;
+
+        }
+        .div_opacity
+        {
+            width:400px;
+            height:200px;
+            position: relative;
+            left:600px;
+            top:100px;
+            background-color: lightsalmon;
+            opacity:0.5;
+        }
+        .div_opacity:hover
+        {
+            transition: 3s;
+            opacity: 2.5;
+        }
+        .button_hover
+        {
+            width:100px;
+            height:100px;
+            position: relative;
+            top:50px;
+            left:1100px;
+            background-color: lightgoldenrodyellow;
+            font-size: smaller;
+        }
+        .button_hover:hover
+        {
+            background-color:greenyellow ;
+            font-size: large;
+        }
+    </style>
+    <title>Document-Transition Activities Transform Activities</title>
+</head>
+<body>
+    <div class="rotate_box">div1 <br>ROTATE A BOX</div>
+    <div class="scale_hover">div2<img src="images/Image (2).png"></div>
+    <div class="smooth_hover">div3 <br>smoothly resizing</div>
+    <div class="border_change">div4<br> Border changes</div>
+    <div class="div_opacity">div5 <br> Opacity changes</div>
+    <div class="button_hover">div 6<br> Change color and font size</div>
+</body>
+</html>
