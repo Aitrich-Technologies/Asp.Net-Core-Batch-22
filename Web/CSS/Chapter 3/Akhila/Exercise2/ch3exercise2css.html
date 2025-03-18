@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .side_menu
+        {
+            width:350px;
+            height:850px;
+            background-color:rgb(96, 96, 190);
+            color:white;
+            position: relative;
+            float: left;
+        }
+        .hireme
+        {
+            width:350px;
+            height:200px;
+            position: absolute;
+            left:45px;
+            line-height:210px ;
+            text-align: center;
+            font-size:xx-large;
+            font-weight: bolder;
+            display: flex;
+            animation: slide 10s infinite;
+        }
+        @keyframes slide 
+        {
+            0%{left: 20px;}
+            50%{left:150px;} 
+            100%{left:20px;}
+        }
+        
+       
+        .menu
+        {
+                width: 350px;
+                height:450px;
+                font-size: large;
+                left:60px;
+                top:220px;
+                margin-bottom: 10px;
+                position:absolute;
+                display: flex;
+                
+        }
+        li:hover
+        {
+            background-color: white;
+            border-radius: 25px;
+            color: black;
+        }
+        .addnew
+        {
+            width:350px;
+            height:150px;
+            position: absolute;
+            left:105px;
+            top:550px;
+            display: flex;
+        }
+        .addnew_text
+        {
+            width:200px;
+            height:50px;
+            position: absolute;
+            left:105px;
+            top:650px;
+            display: flex;
+            color:white;
+            font-size: x-large;
+        }
+        .addnew_text:hover
+        {
+            background-color: white;
+        }
+        /* Main content area */
+        .main_box
+        {
+            width:1100px;
+            height:850px;
+            background-color:whitesmoke;
+            color:black;
+            /* justify-content: center; */
+            position: relative;
+            display: flex;
+        }
+        .firstrow
+        {
+            height:100px;
+            width:1050px;
+            padding: 10px;
+            background-color: whitesmoke;
+            justify-content: flex-end;
+            position: absolute;
+            border-bottom: 2px solid lightgray;
+            line-height: 30px;
+            display: flex;
+            
+        }
+        .main_form
+        {
+            width:900px;
+            height:600px;
+            border-radius: 25px;
+            background-color: white;
+            position: absolute;
+            left:90px;
+            top:200px;
+        }
+        .inputbox
+        {
+            border-top: lightgray;
+            justify-content: left;
+            position: absolute;
+            left: 100px;
+            top: 50px;
+            display: flex;
+        }
+        .inputtext
+        {
+            background-color: rgb(169, 164, 164);
+            color:lightgray;
+            width:700px ;
+            height:50px;
+            position: absolute;
+            top: 50px;
+            font-size: x-large;
+            /* justify-content: left; */
+            align-content: center;
+        }
+        label
+        {
+
+            font-size: x-large;
+        }
+        .btn
+        {
+            width: 150px;
+            height:60px;
+            background-color:rgb(96, 96, 190);
+            color:white;
+            border-radius: 25px;
+            position: absolute;
+            top:500px;
+            left:100px;
+            align-content: center;
+            text-align: center;
+            float: left;
+        }
+        .chekbox
+        {
+            width:350px;
+            height:60px;
+            position: absolute;
+            left:300px;
+            top:520px;
+            justify-content: center;
+        }
+        .footer
+        {
+            width:1450px;
+            height:250px;
+            background-color: rgb(96, 96, 190);
+            color:white;
+            font-size: 40px;
+            font-style: italic;
+            font-weight: bolder;
+            position: absolute;
+            left:8px;
+            top:850px;
+            padding-left: 20px;
+            line-height: 175px;
+                        
+
+        }
+        .imgfooter1
+        {
+            position: absolute;
+            left:900px;
+            top:100px;
+            float: left;
+            animation: moving2 10s infinite;
+        }
+        @keyframes moving2 
+        {
+            0%{left: 900px;}
+            50%{left:1050px;} 
+            100%{left:900px;} 
+        }
+        .imgfooter2
+        {
+            position: absolute;
+            left:1300px;
+            top:100px;
+            float: left;
+            animation: moving1 10s infinite;
+        }
+
+           
+        @keyframes moving1 
+        {
+            0%{left: 1300px;}
+            50%{left:1200px;} 
+            100%{left:1300px;} 
+        }
+        
+    </style>
+    <title>Document</title>
+</head>
+<body>
+   <div class="side_menu">
+        <div class="hireme">Hire Me Now!</div>
+        <div class="menu">
+            <ul type="none" >
+
+                <li style="height: 40px;width:200px;text-align: left;"><img src="images/dashboard 1.png" height="20px" width="20px"> Dash Board</li>
+                <li style="height: 40px;width:200px;text-align: left;"><img src="images/suitcase 2.png" height="20px" width="20px"> Jobs</li>
+                <li style="height: 40px;width:200px;text-align: left;"><img src="images/application (1) 1.png" height="20px" width="20px"> Application</li>
+                <li style="height: 40px;width:200px;text-align: left;"><img src="images/question (1) 1.png" height="20px" width="20px"> Interviews</li>
+                <li style="height: 40px;width:200px;text-align: left;"><img src="images/message 1.png" height="20px" width="20px"> Message</li>
+                <li style="height: 40px;width:200px;text-align: left;"><img src="images/settings 1.png" height="20px" width="20px"> Settings</li>
+            </ul>
+        </div>
+        <div class="addnew">
+            <img src="images/add-group (1) 1.png" height="100px" width="100px">
+        </div>
+        <div class="addnew_text">
+            Add New
+        </div>
+   </div> 
+   <div class="main_box">
+        <div class="firstrow">
+            <img src="images/notification-bing.png" height="30px" width="30px" ><img src="images/cheerful.png" height="50px" width="50px">Olivia<br><br><br>
+        
+        </div>
+        <div class="main_form">
+            <div class="inputbox">
+                <label value="Job Title">Job Title</label><br>
+                <div class="inputtext">Enter Job Title</div>
+            </div>
+            <div class="inputbox" style="top:150px">
+                <label value="Description">Description</label><br>
+                <div class="inputtext">Enter Description</div>
+            </div>
+            <div class="inputbox" style="top:250px">
+                <label value="Salary">Salary</label><br>
+                <div class="inputtext">Enter Salary</div>
+            </div>
+            <div class="inputbox" style="top:350px">
+                <label value="Location">Location</label><br>
+                <div class="inputtext">Enter Location</div>
+            </div>
+            <div class="btn">
+                Send
+            </div>
+            <div class="chekbox">
+                <pre style="font-style: normal;">Push Notification<input type="checkbox" value=" ">      Email Notification<input type="checkbox" value=" "></pre>
+            </div>
+        </div>
+   </div>
+   <div class="footer">
+        
+            Get your dream Job......
+        <div class="imgfooter1">
+            <img src="images/home-button 4.png">
+        </div>
+        <div class="imgfooter2">
+            <img src="images/calendar (2) 2.png">
+        </div>
+   </div>
+</body>
+</html>
