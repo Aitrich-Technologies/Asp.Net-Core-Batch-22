@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .headline
+        {
+            width:100%;
+            height:200px;
+            background-color: tomato;
+            color:white;
+            position:relative;
+            font-size: larger;
+            display: flex;
+            line-height: 80px;
+            justify-content: center;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .navlist
+        {
+            width:100%;
+            height:80px;
+            /* background-color: aquamarine; */
+            color:white;
+            position: absolute;
+            float: left;
+            font-size:20px;
+            top:120px;
+            left:20px;
+            font-weight: bold;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            margin-left: 300px;
+           
+            /* justify-items: center; */
+
+        }
+        .menus
+        {
+            width:150px;
+            height:50px;
+            border-radius: 25px;
+            text-align: center;
+            line-height: 40px;
+            padding:2px;
+            position:relative;
+            float: left;
+            margin:5px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+        .menus:hover
+        {
+            color:black;
+            background-color: yellow;
+           
+
+        }
+
+        .title
+        {
+            width: 80%;
+            height:150px;
+            background-color: whitesmoke;
+            border-radius: 5px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            position:relative;
+            display: flex;
+          
+            justify-content: center;
+            line-height: 50px;
+            margin-left: 120px;
+            margin-top: 15px;
+            color:red;
+            font-weight: bold;
+        }
+
+        #headtitle
+        {
+            animation: jumping 2s infinite;
+        }   
+        
+        @keyframes jumping
+        {
+            from{margin-top: 15px;}
+            to{margin-top: 20px;}
+        }
+        .para
+        {
+            width: 990px;
+            height:50px;
+            background-color: whitesmoke;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            position:absolute;
+            top:95px;
+            left:5px;
+            display: flex;
+            justify-content:left;
+            color:black;
+            font-weight:lighter;
+        }
+        .images
+        {
+            height:120px;
+            width:120px;
+            border-radius: 25px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color:white;
+            justify-content: center;
+            line-height: 50px;
+            margin-left:10px;
+            margin-top: 100px;
+            float:left;
+            position: relative;
+            
+            /* top: 50px;
+            left: 10px; */
+        }
+        .images:hover
+        {
+            transform:scale(1.5)   ;
+        }
+        .funs1
+        {
+            width:98%;
+            height: 50px;
+            margin-top: 5px;
+            padding-top: 3px;
+            border-radius: 12px;
+            background-color: yellow;
+            justify-content: left;
+            color:black;
+            display: flex;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            position:absolute;
+            top:85px;
+            left:10px;
+
+
+        }
+        .funs1:hover
+        {
+            animation: swing 3s 5;
+        }
+        @keyframes swing
+        {
+            from{left: 20px;}
+            to{left: 5px;}
+        }
+
+        
+        .funs2
+        {
+            width:98%;
+            height: 50px;
+            margin-top: 5px;
+            padding-top: 3px;
+            border-radius: 12px;
+            background-color: yellow;
+            justify-content: left;
+            color:black;
+            display: flex;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            position:absolute;
+            top:140px;
+            left:10px;
+        }
+        .funs2:hover
+        {
+            animation: swing 3s 5;
+        }
+        @keyframes swing
+        {
+            from{left: 20px;}
+            to{left: 5px;}
+        }
+        .funs3
+        {
+            width:98%;
+            height: 50px;
+            margin-top: 5px;
+            padding-top: 3px;
+            border-radius: 12px;
+            background-color: yellow;
+            justify-content: left;
+            color:black;
+            display: flex;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            position:absolute;
+            top:195px;
+            left:10px;
+        }
+        .funs3:hover
+        {
+            animation: swing 3s 5;
+        }
+        @keyframes swing
+        {
+            from{left: 20px;}
+            to{left: 5px;}
+        }
+        .funs4
+        {
+            width:98%;
+            height: 50px;
+            margin-top: 5px;
+            padding-top: 3px;
+            border-radius: 12px;
+            background-color: yellow;
+            justify-content: left;
+            color:black;
+            display: flex;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            position:absolute;
+            top:250px;
+            left:10px;
+        }
+        .funs4:hover
+        {
+            animation: swing 3s 5;
+        }
+        @keyframes swing
+        {
+            from{left: 20px;}
+            to{left: 5px;}
+        }
+
+        .icons
+        {
+            height: 20px;
+            width: 20px;
+            padding-top: 15px;
+            padding-left: 5px;
+        }
+
+        .fillupform
+        {
+            width:94%;
+            height:650px;
+            background-color: whitesmoke;
+            color: purple;
+            position:absolute;
+            top:80px;
+            left:50px;
+            display: flex;
+            
+        }
+        .name
+        {
+            height:50px;
+            width:90%;
+            border:1px solid palevioletred;
+            position: absolute;
+            top:20px;
+            left: 5px;
+            display: flex;
+        }
+        .email
+        {
+            height:50px;
+            width:90%;
+            margin-top: 5px;
+            border:1px solid palevioletred;
+            position: absolute;
+            top:135px;
+            left: 5px;display: flex;
+        }
+        .message
+        {
+            height:50px;
+            width:90%;
+            margin-top: 5px;
+            border:1px solid palevioletred;
+            position: absolute;
+            top:200px;
+            left: 5px;display: flex;
+        }
+        .btn
+        {
+            height:50px;
+            width:90%;
+            margin-top: 5px;
+           background-color: brown;
+           color:white;
+            position: absolute;
+            top:265px;
+            left: 5px;
+            display: flex;
+            justify-content: center;
+
+        }
+        label
+        {
+            margin:5px 10px 5px 0px;
+        }
+       
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <div class="headline">
+            <h1>Welcome to Playful Wonderland</h1>
+            <div class="navlist">
+                <div class="menus"> About</div>
+                <div class="menus"> Gallery</div>
+                <div class="menus"> Activities</div>
+                <div class="menus"> Contact</div>
+             </div>
+        </div>
+        <div class="title" id="headtitle">
+            <h1>About Us</h1><br>
+            <span class="para">Discover the magic of creativity and fun! and join us for a whimsical journey filled with color and laughter</span>
+            <!-- <p></p> -->
+        </div>
+        <div class="title" style="height:300px;">
+            <h1 style="text-align: center;">Gallery</h1><br>
+            <div>
+                <div class="images" style="background-color:red;"> Image1</div>
+                <div class="images" style="background-color:rgb(59, 36, 228);"> Image2</div>
+                <div class="images" style="background-color:green;"> Image3</div>
+                <div class="images" style="background-color:yellow;"> Image4</div>
+                <div class="images" style="background-color:purple;"> Image5</div>
+            </div>
+
+        </div>
+        <div class="title" style="height: 300px;">
+            <h1>Fun Activities</h1>
+            <div class="funs1"><img src="images/calendar (4) 1.png" class="icons">Art Workshops</div>
+            <div class="funs2" ><img src="Images/calendar.png" class="icons"> Music Jamming Sessions</div>
+            <div class="funs3"><img src="Images/clock 1.png" class="icons">Juggling Performances</div>
+            <div class="funs4"><img src="Images/time.png" class="icons">Themed Parties</div>
+
+        </div>
+        <div class="title"style="height:750px;">
+            <h1>Contact Us</h1>
+        <div class="fillupform">
+            <label for="name">Name</label><br>
+            <div class="name"></div><br>
+            <label for="email">E-mail</label><br>
+            <div class="email"></div><br>
+            <label for="message">Message</label><br>
+            <div class="message"></div><br>
+            
+            <div class="btn">Send Message</div>
+        </div>
+        </div>
+    </div>
+</body>
+</html>
