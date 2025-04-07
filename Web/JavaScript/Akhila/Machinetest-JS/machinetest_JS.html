@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .pict
+        {
+            height:300px;
+            width:300px;
+            background-color: antiquewhite;
+            display: block;
+            align-content: center;
+            text-align: center;
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div class="pict" id="pic">
+        <img id="piccontainer" >
+    </div>
+    <button onclick="preimage()">Previous</button>
+    <button onclick="nextimage()">Next</button>
+    <button  onclick="resetimage()">Reset</button>
+
+    <script>
+    
+        const pics=['images/Company Logo (3).png','images/girl.png','images/Company Logo (4).png','images/Company Logo.png'];
+        var picbox=document.getElementById('piccontainer');
+        var indx=2;
+           
+        document.getElementById('piccontainer').src=pics[indx];
+        function preimage()
+        {
+            let i=indx-1;
+            if(i>=0)
+            {
+                console.log(i);
+                document.getElementById('piccontainer').src=pics[i];
+                indx=i;
+            }
+        }
+        function nextimage()
+        { 
+           let j=indx+1;
+           if(j<pics.length)
+            {
+                console.log(j);
+                document.getElementById('piccontainer').src=pics[j];
+                indx=j;
+            }
+        }
+        function resetimage()
+        {
+            let k=0;
+            document.getElementById('piccontainer').src=pics[k];
+        }
+    </script>
+</body>
+</html>
