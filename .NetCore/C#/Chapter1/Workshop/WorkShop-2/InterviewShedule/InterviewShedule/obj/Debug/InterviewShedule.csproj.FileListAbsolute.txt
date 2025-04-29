@@ -1,0 +1,7 @@
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb
