@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\bin\Debug\net8.0\enumIteration.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\bin\Debug\net8.0\enumIteration.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\bin\Debug\net8.0\enumIteration.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\bin\Debug\net8.0\enumIteration.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\bin\Debug\net8.0\enumIteration.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\refint\enumIteration.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\enumIteration.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumIteration\obj\Debug\net8.0\ref\enumIteration.dll

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\bin\Debug\net8.0\counter.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\bin\Debug\net8.0\counter.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\bin\Debug\net8.0\counter.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\bin\Debug\net8.0\counter.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\bin\Debug\net8.0\counter.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\refint\counter.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\counter.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\counter\obj\Debug\net8.0\ref\counter.dll

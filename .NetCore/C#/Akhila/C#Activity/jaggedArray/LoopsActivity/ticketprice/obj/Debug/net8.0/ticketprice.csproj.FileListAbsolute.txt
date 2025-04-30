@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\bin\Debug\net8.0\ticketprice.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\bin\Debug\net8.0\ticketprice.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\bin\Debug\net8.0\ticketprice.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\bin\Debug\net8.0\ticketprice.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\bin\Debug\net8.0\ticketprice.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\refint\ticketprice.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ticketprice.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\ticketprice\obj\Debug\net8.0\ref\ticketprice.dll

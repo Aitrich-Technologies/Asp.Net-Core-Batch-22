@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\bin\Debug\net8.0\votingsystem.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\bin\Debug\net8.0\votingsystem.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\bin\Debug\net8.0\votingsystem.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\bin\Debug\net8.0\votingsystem.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\bin\Debug\net8.0\votingsystem.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\refint\votingsystem.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\votingsystem.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\votingsystem\obj\Debug\net8.0\ref\votingsystem.dll

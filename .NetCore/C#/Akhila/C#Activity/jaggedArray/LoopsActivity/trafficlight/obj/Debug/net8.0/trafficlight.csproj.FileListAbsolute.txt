@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\bin\Debug\net8.0\trafficlight.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\bin\Debug\net8.0\trafficlight.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\bin\Debug\net8.0\trafficlight.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\bin\Debug\net8.0\trafficlight.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\bin\Debug\net8.0\trafficlight.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\refint\trafficlight.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\trafficlight.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\trafficlight\obj\Debug\net8.0\ref\trafficlight.dll

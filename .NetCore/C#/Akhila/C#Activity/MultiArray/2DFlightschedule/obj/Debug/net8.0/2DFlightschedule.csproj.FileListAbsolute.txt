@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\bin\Debug\net8.0\2DFlightschedule.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\bin\Debug\net8.0\2DFlightschedule.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\bin\Debug\net8.0\2DFlightschedule.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\bin\Debug\net8.0\2DFlightschedule.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\bin\Debug\net8.0\2DFlightschedule.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\refint\2DFlightschedule.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\2DFlightschedule.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DFlightschedule\obj\Debug\net8.0\ref\2DFlightschedule.dll
