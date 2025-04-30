@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\bin\Debug\net8.0\enumColor.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\bin\Debug\net8.0\enumColor.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\bin\Debug\net8.0\enumColor.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\bin\Debug\net8.0\enumColor.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\bin\Debug\net8.0\enumColor.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\refint\enumColor.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\enumColor.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumColor\obj\Debug\net8.0\ref\enumColor.dll

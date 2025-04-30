@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\bin\Debug\net8.0\shoppingcart.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\bin\Debug\net8.0\shoppingcart.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\bin\Debug\net8.0\shoppingcart.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\bin\Debug\net8.0\shoppingcart.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\bin\Debug\net8.0\shoppingcart.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\refint\shoppingcart.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\shoppingcart.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\shoppingcart\obj\Debug\net8.0\ref\shoppingcart.dll

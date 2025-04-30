@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\bin\Debug\net8.0\JgBank.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\bin\Debug\net8.0\JgBank.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\bin\Debug\net8.0\JgBank.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\bin\Debug\net8.0\JgBank.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\bin\Debug\net8.0\JgBank.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\refint\JgBank.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\JgBank.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgBank\obj\Debug\net8.0\ref\JgBank.dll

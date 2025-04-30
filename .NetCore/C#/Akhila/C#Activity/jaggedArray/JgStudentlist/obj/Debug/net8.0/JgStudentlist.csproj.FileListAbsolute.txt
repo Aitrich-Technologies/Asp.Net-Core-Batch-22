@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\bin\Debug\net8.0\JgStudentlist.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\bin\Debug\net8.0\JgStudentlist.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\bin\Debug\net8.0\JgStudentlist.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\bin\Debug\net8.0\JgStudentlist.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\bin\Debug\net8.0\JgStudentlist.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\refint\JgStudentlist.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\JgStudentlist.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgStudentlist\obj\Debug\net8.0\ref\JgStudentlist.dll

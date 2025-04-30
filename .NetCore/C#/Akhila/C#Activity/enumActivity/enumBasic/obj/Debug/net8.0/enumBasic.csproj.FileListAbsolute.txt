@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\bin\Debug\net8.0\enumBasic.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\bin\Debug\net8.0\enumBasic.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\bin\Debug\net8.0\enumBasic.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\bin\Debug\net8.0\enumBasic.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\bin\Debug\net8.0\enumBasic.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\refint\enumBasic.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\enumBasic.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumBasic\obj\Debug\net8.0\ref\enumBasic.dll

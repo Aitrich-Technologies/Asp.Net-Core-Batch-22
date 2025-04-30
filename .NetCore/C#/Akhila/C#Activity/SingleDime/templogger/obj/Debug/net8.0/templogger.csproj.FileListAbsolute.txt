@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\bin\Debug\net8.0\templogger.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\bin\Debug\net8.0\templogger.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\bin\Debug\net8.0\templogger.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\bin\Debug\net8.0\templogger.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\bin\Debug\net8.0\templogger.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\refint\templogger.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\templogger.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\templogger\obj\Debug\net8.0\ref\templogger.dll

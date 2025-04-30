@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\bin\Debug\net8.0\logincheck.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\bin\Debug\net8.0\logincheck.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\bin\Debug\net8.0\logincheck.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\bin\Debug\net8.0\logincheck.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\bin\Debug\net8.0\logincheck.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\refint\logincheck.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\logincheck.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\logincheck\obj\Debug\net8.0\ref\logincheck.dll

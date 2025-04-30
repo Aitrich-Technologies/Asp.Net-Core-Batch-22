@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\bin\Debug\net8.0\OddorEvenDay.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\bin\Debug\net8.0\OddorEvenDay.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\bin\Debug\net8.0\OddorEvenDay.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\bin\Debug\net8.0\OddorEvenDay.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\bin\Debug\net8.0\OddorEvenDay.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\refint\OddorEvenDay.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\OddorEvenDay.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\OddorEvenDay\obj\Debug\net8.0\ref\OddorEvenDay.dll

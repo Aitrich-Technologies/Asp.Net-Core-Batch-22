@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\bin\Debug\net8.0\enumcastingint.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\bin\Debug\net8.0\enumcastingint.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\bin\Debug\net8.0\enumcastingint.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\bin\Debug\net8.0\enumcastingint.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\bin\Debug\net8.0\enumcastingint.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\refint\enumcastingint.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\enumcastingint.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumcastingint\obj\Debug\net8.0\ref\enumcastingint.dll

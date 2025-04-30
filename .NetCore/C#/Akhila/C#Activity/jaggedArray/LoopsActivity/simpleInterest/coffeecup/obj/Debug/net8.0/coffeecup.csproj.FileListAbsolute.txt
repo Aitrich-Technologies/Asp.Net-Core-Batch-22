@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\bin\Debug\net8.0\coffeecup.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\bin\Debug\net8.0\coffeecup.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\bin\Debug\net8.0\coffeecup.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\bin\Debug\net8.0\coffeecup.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\bin\Debug\net8.0\coffeecup.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\refint\coffeecup.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\coffeecup.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\coffeecup\obj\Debug\net8.0\ref\coffeecup.dll

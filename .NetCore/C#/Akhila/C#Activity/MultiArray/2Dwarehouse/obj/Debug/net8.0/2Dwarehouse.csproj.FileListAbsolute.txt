@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\bin\Debug\net8.0\2Dwarehouse.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\bin\Debug\net8.0\2Dwarehouse.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\bin\Debug\net8.0\2Dwarehouse.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\bin\Debug\net8.0\2Dwarehouse.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\bin\Debug\net8.0\2Dwarehouse.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\refint\2Dwarehouse.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\2Dwarehouse.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dwarehouse\obj\Debug\net8.0\ref\2Dwarehouse.dll
