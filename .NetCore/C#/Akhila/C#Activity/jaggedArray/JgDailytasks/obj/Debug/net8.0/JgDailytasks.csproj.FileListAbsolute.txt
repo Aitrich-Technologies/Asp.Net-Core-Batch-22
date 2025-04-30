@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\bin\Debug\net8.0\JgDailytasks.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\bin\Debug\net8.0\JgDailytasks.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\bin\Debug\net8.0\JgDailytasks.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\bin\Debug\net8.0\JgDailytasks.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\bin\Debug\net8.0\JgDailytasks.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\refint\JgDailytasks.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\JgDailytasks.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgDailytasks\obj\Debug\net8.0\ref\JgDailytasks.dll

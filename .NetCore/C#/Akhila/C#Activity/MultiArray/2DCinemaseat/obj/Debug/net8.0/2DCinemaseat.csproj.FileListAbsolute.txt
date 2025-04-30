@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\bin\Debug\net8.0\2DCinemaseat.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\bin\Debug\net8.0\2DCinemaseat.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\bin\Debug\net8.0\2DCinemaseat.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\bin\Debug\net8.0\2DCinemaseat.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\bin\Debug\net8.0\2DCinemaseat.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\refint\2DCinemaseat.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\2DCinemaseat.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2DCinemaseat\obj\Debug\net8.0\ref\2DCinemaseat.dll

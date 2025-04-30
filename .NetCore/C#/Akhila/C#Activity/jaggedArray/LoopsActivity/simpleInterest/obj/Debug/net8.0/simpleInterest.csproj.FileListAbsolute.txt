@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\bin\Debug\net8.0\simpleInterest.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\bin\Debug\net8.0\simpleInterest.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\bin\Debug\net8.0\simpleInterest.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\bin\Debug\net8.0\simpleInterest.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\bin\Debug\net8.0\simpleInterest.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\refint\simpleInterest.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\simpleInterest.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\simpleInterest\obj\Debug\net8.0\ref\simpleInterest.dll

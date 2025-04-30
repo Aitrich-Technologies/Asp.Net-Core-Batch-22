@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\bin\Debug\net8.0\enumLoglevel.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\bin\Debug\net8.0\enumLoglevel.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\bin\Debug\net8.0\enumLoglevel.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\bin\Debug\net8.0\enumLoglevel.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\bin\Debug\net8.0\enumLoglevel.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\refint\enumLoglevel.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\enumLoglevel.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumLoglevel\obj\Debug\net8.0\ref\enumLoglevel.dll

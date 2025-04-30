@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\bin\Debug\net8.0\JgRestaurant.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\bin\Debug\net8.0\JgRestaurant.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\bin\Debug\net8.0\JgRestaurant.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\bin\Debug\net8.0\JgRestaurant.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\bin\Debug\net8.0\JgRestaurant.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\refint\JgRestaurant.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\JgRestaurant.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\JgRestaurant\obj\Debug\net8.0\ref\JgRestaurant.dll

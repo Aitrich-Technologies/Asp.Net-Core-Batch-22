@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\bin\Debug\net8.0\2Dmarksheet.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\bin\Debug\net8.0\2Dmarksheet.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\bin\Debug\net8.0\2Dmarksheet.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\bin\Debug\net8.0\2Dmarksheet.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\bin\Debug\net8.0\2Dmarksheet.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\refint\2Dmarksheet.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\2Dmarksheet.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\2Dmarksheet\obj\Debug\net8.0\ref\2Dmarksheet.dll

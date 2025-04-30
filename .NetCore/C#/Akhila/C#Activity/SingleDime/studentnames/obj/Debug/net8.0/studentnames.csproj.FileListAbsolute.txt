@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\bin\Debug\net8.0\studentnames.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\bin\Debug\net8.0\studentnames.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\bin\Debug\net8.0\studentnames.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\bin\Debug\net8.0\studentnames.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\bin\Debug\net8.0\studentnames.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\refint\studentnames.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\studentnames.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\studentnames\obj\Debug\net8.0\ref\studentnames.dll

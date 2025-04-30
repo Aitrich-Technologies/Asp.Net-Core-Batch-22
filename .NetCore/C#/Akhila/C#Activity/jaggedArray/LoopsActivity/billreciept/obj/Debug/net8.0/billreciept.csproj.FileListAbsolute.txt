@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\bin\Debug\net8.0\billreciept.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\bin\Debug\net8.0\billreciept.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\bin\Debug\net8.0\billreciept.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\bin\Debug\net8.0\billreciept.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\bin\Debug\net8.0\billreciept.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\refint\billreciept.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\billreciept.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\billreciept\obj\Debug\net8.0\ref\billreciept.dll

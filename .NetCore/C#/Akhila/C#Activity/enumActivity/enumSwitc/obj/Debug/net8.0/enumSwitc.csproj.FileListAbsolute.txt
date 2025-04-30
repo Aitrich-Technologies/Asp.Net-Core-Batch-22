@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\bin\Debug\net8.0\enumSwitc.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\bin\Debug\net8.0\enumSwitc.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\bin\Debug\net8.0\enumSwitc.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\bin\Debug\net8.0\enumSwitc.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\bin\Debug\net8.0\enumSwitc.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\refint\enumSwitc.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\enumSwitc.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\enumSwitc\obj\Debug\net8.0\ref\enumSwitc.dll

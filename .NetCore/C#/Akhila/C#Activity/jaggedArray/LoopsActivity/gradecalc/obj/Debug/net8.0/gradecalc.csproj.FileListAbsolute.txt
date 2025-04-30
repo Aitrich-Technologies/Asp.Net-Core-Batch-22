@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\bin\Debug\net8.0\gradecalc.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\bin\Debug\net8.0\gradecalc.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\bin\Debug\net8.0\gradecalc.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\bin\Debug\net8.0\gradecalc.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\bin\Debug\net8.0\gradecalc.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\refint\gradecalc.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\gradecalc.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\gradecalc\obj\Debug\net8.0\ref\gradecalc.dll
