@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\bin\Debug\net8.0\structEmployee.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\bin\Debug\net8.0\structEmployee.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\bin\Debug\net8.0\structEmployee.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\bin\Debug\net8.0\structEmployee.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\bin\Debug\net8.0\structEmployee.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\refint\structEmployee.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\structEmployee.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\structEmployee\obj\Debug\net8.0\ref\structEmployee.dll

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\bin\Debug\net8.0\structArrayCourse.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\bin\Debug\net8.0\structArrayCourse.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\bin\Debug\net8.0\structArrayCourse.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\bin\Debug\net8.0\structArrayCourse.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\bin\Debug\net8.0\structArrayCourse.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\refint\structArrayCourse.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\structArrayCourse.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\C#Activity\structure\structArrayCourse\obj\Debug\net8.0\ref\structArrayCourse.dll

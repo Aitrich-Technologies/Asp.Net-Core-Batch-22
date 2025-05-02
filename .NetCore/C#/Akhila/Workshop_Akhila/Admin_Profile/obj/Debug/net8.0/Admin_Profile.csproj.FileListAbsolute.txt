@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\bin\Debug\net8.0\Admin_Profile.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\bin\Debug\net8.0\Admin_Profile.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\bin\Debug\net8.0\Admin_Profile.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\bin\Debug\net8.0\Admin_Profile.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\bin\Debug\net8.0\Admin_Profile.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\refint\Admin_Profile.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\Admin_Profile.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\Workshop_Akhila\Admin_Profile\obj\Debug\net8.0\ref\Admin_Profile.dll
