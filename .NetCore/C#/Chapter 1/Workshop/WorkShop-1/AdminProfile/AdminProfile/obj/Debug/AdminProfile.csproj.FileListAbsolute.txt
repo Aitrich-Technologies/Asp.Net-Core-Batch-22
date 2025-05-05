@@ -1,7 +1,0 @@
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
-D:\Reeshma\.netCore Bootcamp\03 .FSbatch 03\.NetCoreFSOnlineBatch-03\Csharp\Csharp- chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
