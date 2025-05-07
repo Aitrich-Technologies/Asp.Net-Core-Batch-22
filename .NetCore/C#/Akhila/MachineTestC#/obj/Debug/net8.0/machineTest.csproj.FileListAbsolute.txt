@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\bin\Debug\net8.0\machineTest.exe
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\bin\Debug\net8.0\machineTest.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\bin\Debug\net8.0\machineTest.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\bin\Debug\net8.0\machineTest.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\bin\Debug\net8.0\machineTest.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\refint\machineTest.dll
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\ref\machineTest.dll
