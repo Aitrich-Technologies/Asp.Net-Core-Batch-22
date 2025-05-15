@@ -12,3 +12,18 @@ C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\refin
 C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.pdb
 C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\machineTest.genruntimeconfig.cache
 C:\Users\rithi\Desktop\AitrichRepo\Project-VS\machineTest\obj\Debug\net8.0\ref\machineTest.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\bin\Debug\net8.0\machineTest.exe
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\bin\Debug\net8.0\machineTest.deps.json
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\bin\Debug\net8.0\machineTest.runtimeconfig.json
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\bin\Debug\net8.0\machineTest.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\bin\Debug\net8.0\machineTest.pdb
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.AssemblyInfoInputs.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.AssemblyInfo.cs
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.sourcelink.json
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\refint\machineTest.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.pdb
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\machineTest.genruntimeconfig.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Akhila\MachineTestC#\obj\Debug\net8.0\ref\machineTest.dll

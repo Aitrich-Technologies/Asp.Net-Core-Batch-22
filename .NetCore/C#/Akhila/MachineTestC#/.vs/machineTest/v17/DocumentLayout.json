@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Project-VS\\machineTest\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\Akhila\\MachineTestC#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B230CB6-ED1D-4EF1-A7E6-69EB8527DAE0}|machineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\project-vs\\machinetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B230CB6-ED1D-4EF1-A7E6-69EB8527DAE0}|machineTest.csproj|d:\\reeshma\\.netcore bootcamp\\22. batch 22\\asp.net-core-batch-22\\.netcore\\c#\\akhila\\machinetestc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B230CB6-ED1D-4EF1-A7E6-69EB8527DAE0}|machineTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Project-VS\\machineTest\\Program.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\Akhila\\MachineTestC#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Project-VS\\machineTest\\Program.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\Akhila\\MachineTestC#\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T09:57:11.405Z",
               "EditorCaption": ""
