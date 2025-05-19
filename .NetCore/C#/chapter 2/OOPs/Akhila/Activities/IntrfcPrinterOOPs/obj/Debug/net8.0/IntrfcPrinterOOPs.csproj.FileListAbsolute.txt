@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\bin\Debug\net8.0\IntrfcPrinterOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\bin\Debug\net8.0\IntrfcPrinterOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\bin\Debug\net8.0\IntrfcPrinterOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\bin\Debug\net8.0\IntrfcPrinterOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\bin\Debug\net8.0\IntrfcPrinterOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\refint\IntrfcPrinterOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\IntrfcPrinterOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\IntrfcPrinterOOPs\obj\Debug\net8.0\ref\IntrfcPrinterOOPs.dll

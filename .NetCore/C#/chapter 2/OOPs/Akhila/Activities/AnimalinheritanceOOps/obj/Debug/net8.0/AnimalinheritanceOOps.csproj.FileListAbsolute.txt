@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\bin\Debug\net8.0\AnimalinheritanceOOps.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\bin\Debug\net8.0\AnimalinheritanceOOps.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\bin\Debug\net8.0\AnimalinheritanceOOps.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\bin\Debug\net8.0\AnimalinheritanceOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\bin\Debug\net8.0\AnimalinheritanceOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\refint\AnimalinheritanceOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\AnimalinheritanceOOps.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\AnimalinheritanceOOps\obj\Debug\net8.0\ref\AnimalinheritanceOOps.dll

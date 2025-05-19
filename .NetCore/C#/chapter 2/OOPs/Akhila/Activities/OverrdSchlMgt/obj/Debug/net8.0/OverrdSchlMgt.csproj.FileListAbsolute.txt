@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\bin\Debug\net8.0\OverrdSchlMgt.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\bin\Debug\net8.0\OverrdSchlMgt.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\bin\Debug\net8.0\OverrdSchlMgt.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\bin\Debug\net8.0\OverrdSchlMgt.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\bin\Debug\net8.0\OverrdSchlMgt.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\refint\OverrdSchlMgt.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\OverrdSchlMgt.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OverrdSchlMgt\obj\Debug\net8.0\ref\OverrdSchlMgt.dll

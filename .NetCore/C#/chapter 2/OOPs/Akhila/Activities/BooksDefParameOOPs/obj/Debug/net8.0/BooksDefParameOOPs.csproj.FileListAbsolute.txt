@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\bin\Debug\net8.0\BooksDefParameOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\bin\Debug\net8.0\BooksDefParameOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\bin\Debug\net8.0\BooksDefParameOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\bin\Debug\net8.0\BooksDefParameOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\bin\Debug\net8.0\BooksDefParameOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\refint\BooksDefParameOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\BooksDefParameOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksDefParameOOPs\obj\Debug\net8.0\ref\BooksDefParameOOPs.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesInhOOPs", "ShapesInhOOPs.csproj", "{976899F6-9ADD-4393-B131-E81B953F0DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976899F6-9ADD-4393-B131-E81B953F0DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976899F6-9ADD-4393-B131-E81B953F0DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976899F6-9ADD-4393-B131-E81B953F0DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976899F6-9ADD-4393-B131-E81B953F0DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F02AC9-3E21-4302-81A1-935540DF63D6}
+	EndGlobalSection
+EndGlobal

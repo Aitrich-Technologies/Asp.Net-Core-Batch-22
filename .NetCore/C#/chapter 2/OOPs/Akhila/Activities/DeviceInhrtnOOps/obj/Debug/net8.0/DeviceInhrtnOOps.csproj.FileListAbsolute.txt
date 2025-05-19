@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\bin\Debug\net8.0\DeviceInhrtnOOps.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\bin\Debug\net8.0\DeviceInhrtnOOps.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\bin\Debug\net8.0\DeviceInhrtnOOps.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\bin\Debug\net8.0\DeviceInhrtnOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\bin\Debug\net8.0\DeviceInhrtnOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\refint\DeviceInhrtnOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\DeviceInhrtnOOps.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\DeviceInhrtnOOps\obj\Debug\net8.0\ref\DeviceInhrtnOOps.dll

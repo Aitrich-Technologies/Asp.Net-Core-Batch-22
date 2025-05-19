@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\bin\Debug\net8.0\BankAccountOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\bin\Debug\net8.0\BankAccountOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\bin\Debug\net8.0\BankAccountOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\bin\Debug\net8.0\BankAccountOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\bin\Debug\net8.0\BankAccountOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\refint\BankAccountOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\BankAccountOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BankAccountOOPs\obj\Debug\net8.0\ref\BankAccountOOPs.dll

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\bin\Debug\net8.0\FruitInhrtnOOps.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\bin\Debug\net8.0\FruitInhrtnOOps.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\bin\Debug\net8.0\FruitInhrtnOOps.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\bin\Debug\net8.0\FruitInhrtnOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\bin\Debug\net8.0\FruitInhrtnOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\refint\FruitInhrtnOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\FruitInhrtnOOps.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\FruitInhrtnOOps\obj\Debug\net8.0\ref\FruitInhrtnOOps.dll

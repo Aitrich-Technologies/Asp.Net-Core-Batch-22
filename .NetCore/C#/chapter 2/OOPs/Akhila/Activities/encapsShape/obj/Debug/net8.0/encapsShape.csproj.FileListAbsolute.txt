@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\bin\Debug\net8.0\encapsShape.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\bin\Debug\net8.0\encapsShape.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\bin\Debug\net8.0\encapsShape.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\bin\Debug\net8.0\encapsShape.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\bin\Debug\net8.0\encapsShape.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\refint\encapsShape.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\encapsShape.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsShape\obj\Debug\net8.0\ref\encapsShape.dll

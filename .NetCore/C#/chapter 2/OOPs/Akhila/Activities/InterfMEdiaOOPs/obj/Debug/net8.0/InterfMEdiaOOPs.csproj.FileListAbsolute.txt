@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\bin\Debug\net8.0\InterfMEdiaOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\bin\Debug\net8.0\InterfMEdiaOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\bin\Debug\net8.0\InterfMEdiaOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\bin\Debug\net8.0\InterfMEdiaOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\bin\Debug\net8.0\InterfMEdiaOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\refint\InterfMEdiaOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\InterfMEdiaOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\InterfMEdiaOOPs\obj\Debug\net8.0\ref\InterfMEdiaOOPs.dll

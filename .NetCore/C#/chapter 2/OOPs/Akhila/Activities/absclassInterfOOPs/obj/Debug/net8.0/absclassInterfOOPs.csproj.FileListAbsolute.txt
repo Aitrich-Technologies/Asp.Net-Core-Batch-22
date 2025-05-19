@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\bin\Debug\net8.0\absclassInterfOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\bin\Debug\net8.0\absclassInterfOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\bin\Debug\net8.0\absclassInterfOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\bin\Debug\net8.0\absclassInterfOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\bin\Debug\net8.0\absclassInterfOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\refint\absclassInterfOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\absclassInterfOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\absclassInterfOOPs\obj\Debug\net8.0\ref\absclassInterfOOPs.dll

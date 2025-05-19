@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\bin\Debug\net8.0\UserOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\bin\Debug\net8.0\UserOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\bin\Debug\net8.0\UserOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\bin\Debug\net8.0\UserOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\bin\Debug\net8.0\UserOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\refint\UserOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\UserOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\UserOOPs\obj\Debug\net8.0\ref\UserOOPs.dll
