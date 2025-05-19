@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\bin\Debug\net8.0\encapsPayroll.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\bin\Debug\net8.0\encapsPayroll.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\bin\Debug\net8.0\encapsPayroll.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\bin\Debug\net8.0\encapsPayroll.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\bin\Debug\net8.0\encapsPayroll.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\refint\encapsPayroll.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\encapsPayroll.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsPayroll\obj\Debug\net8.0\ref\encapsPayroll.dll

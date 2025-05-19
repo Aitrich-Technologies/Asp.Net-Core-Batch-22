@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\bin\Debug\net8.0\encapsBank.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\bin\Debug\net8.0\encapsBank.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\bin\Debug\net8.0\encapsBank.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\bin\Debug\net8.0\encapsBank.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\bin\Debug\net8.0\encapsBank.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\refint\encapsBank.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\encapsBank.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsBank\obj\Debug\net8.0\ref\encapsBank.dll

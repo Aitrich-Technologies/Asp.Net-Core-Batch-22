@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\bin\Debug\net8.0\Vehicle2InhertnOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\bin\Debug\net8.0\Vehicle2InhertnOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\bin\Debug\net8.0\Vehicle2InhertnOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\bin\Debug\net8.0\Vehicle2InhertnOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\bin\Debug\net8.0\Vehicle2InhertnOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\refint\Vehicle2InhertnOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\Vehicle2InhertnOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\Vehicle2InhertnOOPs\obj\Debug\net8.0\ref\Vehicle2InhertnOOPs.dll

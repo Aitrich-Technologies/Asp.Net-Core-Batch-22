@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\bin\Debug\net8.0\bookOOPS.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\bin\Debug\net8.0\bookOOPS.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\bin\Debug\net8.0\bookOOPS.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\bin\Debug\net8.0\bookOOPS.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\bin\Debug\net8.0\bookOOPS.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\refint\bookOOPS.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\bookOOPS.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\bookOOPS\obj\Debug\net8.0\ref\bookOOPS.dll

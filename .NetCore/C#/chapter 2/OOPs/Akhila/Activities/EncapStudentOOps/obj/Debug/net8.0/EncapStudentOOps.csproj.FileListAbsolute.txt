@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\bin\Debug\net8.0\EncapStudentOOps.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\bin\Debug\net8.0\EncapStudentOOps.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\bin\Debug\net8.0\EncapStudentOOps.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\bin\Debug\net8.0\EncapStudentOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\bin\Debug\net8.0\EncapStudentOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\refint\EncapStudentOOps.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\EncapStudentOOps.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\EncapStudentOOps\obj\Debug\net8.0\ref\EncapStudentOOps.dll

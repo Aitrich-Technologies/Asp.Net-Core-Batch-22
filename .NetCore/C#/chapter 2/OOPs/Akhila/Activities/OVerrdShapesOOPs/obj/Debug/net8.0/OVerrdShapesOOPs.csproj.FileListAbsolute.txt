@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\bin\Debug\net8.0\OVerrdShapesOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\bin\Debug\net8.0\OVerrdShapesOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\bin\Debug\net8.0\OVerrdShapesOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\bin\Debug\net8.0\OVerrdShapesOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\bin\Debug\net8.0\OVerrdShapesOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\refint\OVerrdShapesOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\OVerrdShapesOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\OVerrdShapesOOPs\obj\Debug\net8.0\ref\OVerrdShapesOOPs.dll

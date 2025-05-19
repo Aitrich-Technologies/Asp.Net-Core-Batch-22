@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\bin\Debug\net8.0\BooksdisplayOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\bin\Debug\net8.0\BooksdisplayOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\bin\Debug\net8.0\BooksdisplayOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\bin\Debug\net8.0\BooksdisplayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\bin\Debug\net8.0\BooksdisplayOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\refint\BooksdisplayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\BooksdisplayOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\BooksdisplayOOPs\obj\Debug\net8.0\ref\BooksdisplayOOPs.dll

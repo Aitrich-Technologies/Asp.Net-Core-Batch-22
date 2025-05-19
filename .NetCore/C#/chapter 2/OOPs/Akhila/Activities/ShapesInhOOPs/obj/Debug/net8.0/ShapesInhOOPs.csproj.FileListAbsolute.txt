@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\bin\Debug\net8.0\ShapesInhOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\bin\Debug\net8.0\ShapesInhOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\bin\Debug\net8.0\ShapesInhOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\bin\Debug\net8.0\ShapesInhOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\bin\Debug\net8.0\ShapesInhOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\refint\ShapesInhOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ShapesInhOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapesInhOOPs\obj\Debug\net8.0\ref\ShapesInhOOPs.dll

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\bin\Debug\net8.0\ShapeabsOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\bin\Debug\net8.0\ShapeabsOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\bin\Debug\net8.0\ShapeabsOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\bin\Debug\net8.0\ShapeabsOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\bin\Debug\net8.0\ShapeabsOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\refint\ShapeabsOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ShapeabsOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ShapeabsOOPs\obj\Debug\net8.0\ref\ShapeabsOOPs.dll

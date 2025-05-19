@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\bin\Debug\net8.0\encapsStudEnrollOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\bin\Debug\net8.0\encapsStudEnrollOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\bin\Debug\net8.0\encapsStudEnrollOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\bin\Debug\net8.0\encapsStudEnrollOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\bin\Debug\net8.0\encapsStudEnrollOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\refint\encapsStudEnrollOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\encapsStudEnrollOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\encapsStudEnrollOOPs\obj\Debug\net8.0\ref\encapsStudEnrollOOPs.dll

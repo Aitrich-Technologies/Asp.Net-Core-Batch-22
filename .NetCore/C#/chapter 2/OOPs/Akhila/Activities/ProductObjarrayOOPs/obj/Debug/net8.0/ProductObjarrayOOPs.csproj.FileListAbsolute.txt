@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\bin\Debug\net8.0\ProductObjarrayOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\bin\Debug\net8.0\ProductObjarrayOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\bin\Debug\net8.0\ProductObjarrayOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\bin\Debug\net8.0\ProductObjarrayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\bin\Debug\net8.0\ProductObjarrayOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\refint\ProductObjarrayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ProductObjarrayOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\ProductObjarrayOOPs\obj\Debug\net8.0\ref\ProductObjarrayOOPs.dll

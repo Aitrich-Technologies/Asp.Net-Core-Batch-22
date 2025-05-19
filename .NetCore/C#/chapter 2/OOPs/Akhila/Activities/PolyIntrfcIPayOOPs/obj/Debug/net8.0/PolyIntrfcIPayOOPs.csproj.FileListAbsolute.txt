@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\bin\Debug\net8.0\PolyIntrfcIPayOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\bin\Debug\net8.0\PolyIntrfcIPayOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\bin\Debug\net8.0\PolyIntrfcIPayOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\bin\Debug\net8.0\PolyIntrfcIPayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\bin\Debug\net8.0\PolyIntrfcIPayOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\refint\PolyIntrfcIPayOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\PolyIntrfcIPayOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\PolyIntrfcIPayOOPs\obj\Debug\net8.0\ref\PolyIntrfcIPayOOPs.dll

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\bin\Debug\net8.0\RectangleOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\bin\Debug\net8.0\RectangleOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\bin\Debug\net8.0\RectangleOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\bin\Debug\net8.0\RectangleOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\bin\Debug\net8.0\RectangleOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\refint\RectangleOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\RectangleOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\RectangleOOPs\obj\Debug\net8.0\ref\RectangleOOPs.dll

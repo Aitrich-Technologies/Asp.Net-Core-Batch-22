@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\bin\Debug\net8.0\inheritanceOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\bin\Debug\net8.0\inheritanceOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\bin\Debug\net8.0\inheritanceOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\bin\Debug\net8.0\inheritanceOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\bin\Debug\net8.0\inheritanceOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\refint\inheritanceOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\inheritanceOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\inheritanceOOPs\obj\Debug\net8.0\ref\inheritanceOOPs.dll
