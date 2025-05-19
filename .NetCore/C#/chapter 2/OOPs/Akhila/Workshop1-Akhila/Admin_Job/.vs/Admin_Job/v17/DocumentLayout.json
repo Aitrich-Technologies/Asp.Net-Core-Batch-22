@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeDocumentMoniker": "Manager\\Admin.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\Admin.cs",
+              "RelativeToolTip": "Manager\\Admin.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv1QAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:07:38.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:48:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "Model\\Job.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\Job.cs",
+              "RelativeToolTip": "Model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:51:15.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:59:09.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Manager\\JobManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:20:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJob.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeDocumentMoniker": "Interface\\IJob.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Interface\\IJob.cs",
+              "RelativeToolTip": "Interface\\IJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:05:05.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

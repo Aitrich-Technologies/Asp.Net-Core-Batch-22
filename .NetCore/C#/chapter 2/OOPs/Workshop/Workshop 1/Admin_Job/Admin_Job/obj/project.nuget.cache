@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YlzGknb38AQ=",
+  "dgSpecHash": "QOiMWc/JzMA=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
