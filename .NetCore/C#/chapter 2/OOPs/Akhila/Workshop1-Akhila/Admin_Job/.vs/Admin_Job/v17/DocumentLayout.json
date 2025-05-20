@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\",
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\akhila\\workshop1-akhila\\admin_job\\manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:manager\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\akhila\\workshop1-akhila\\admin_job\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\akhila\\workshop1-akhila\\admin_job\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\akhila\\workshop1-akhila\\admin_job\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\akhila\\workshop1-akhila\\admin_job\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\akhila\\workshop1-akhila\\admin_job\\interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C5C5052-1B34-41E4-B8F3-99DA435EACC2}|Admin_Job.csproj|solutionrelative:interface\\ijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Manager\\Admin.cs",
               "RelativeDocumentMoniker": "Manager\\Admin.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\Admin.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Manager\\Admin.cs",
               "RelativeToolTip": "Manager\\Admin.cs",
               "ViewState": "AgIAADMAAAAAAAAAAADwv1QAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,66 +57,61 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA2wBIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:48:03.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T10:48:03.595Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\Job.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Model\\Job.cs",
               "RelativeDocumentMoniker": "Model\\Job.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\Job.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Model\\Job.cs",
               "RelativeToolTip": "Model\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:51:15.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T10:51:15.047Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T10:59:09.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T10:59:09.181Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "JobManager.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Manager\\JobManager.cs",
               "RelativeDocumentMoniker": "Manager\\JobManager.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Manager\\JobManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Manager\\JobManager.cs",
               "RelativeToolTip": "Manager\\JobManager.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T05:20:42.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T05:20:42.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IJob.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Interface\\IJob.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Interface\\IJob.cs",
               "RelativeDocumentMoniker": "Interface\\IJob.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\Admin_Job\\Interface\\IJob.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Akhila\\Workshop1-Akhila\\Admin_Job\\Interface\\IJob.cs",
               "RelativeToolTip": "Interface\\IJob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:05:05.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T11:05:05.679Z"
             }
           ]
         }

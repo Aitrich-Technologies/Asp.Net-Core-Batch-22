@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\managers\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:managers\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\managers\\jobportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:managers\\jobportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:interface\\ijobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\interface\\iinterviewprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:interface\\iinterviewprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\interface\\iapplicationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:interface\\iapplicationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\jobproviderapplication\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39E425F-65AB-4D66-8E17-26155F198865}|JobProviderApplication.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Managers\\Printer.cs",
+              "RelativeDocumentMoniker": "Managers\\Printer.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Managers\\Printer.cs",
+              "RelativeToolTip": "Managers\\Printer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:07:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPortal.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Managers\\JobPortal.cs",
+              "RelativeDocumentMoniker": "Managers\\JobPortal.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Managers\\JobPortal.cs",
+              "RelativeToolTip": "Managers\\JobPortal.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAvwHkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:34:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAH0AAAAAAAAAAADgv5cAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:03:48.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobProvider.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Interface\\IJobProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IJobProvider.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Interface\\IJobProvider.cs",
+              "RelativeToolTip": "Interface\\IJobProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:24:29.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInterviewProvider.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Interface\\IInterviewProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IInterviewProvider.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Interface\\IInterviewProvider.cs",
+              "RelativeToolTip": "Interface\\IInterviewProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:32:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApplicationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Interface\\IApplicationProvider.cs",
+              "RelativeDocumentMoniker": "Interface\\IApplicationProvider.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Interface\\IApplicationProvider.cs",
+              "RelativeToolTip": "Interface\\IApplicationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:30:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "Models\\Interview.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Models\\Interview.cs",
+              "RelativeToolTip": "Models\\Interview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:05:50.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:05:04.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\JobProviderApplication\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:05:29.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

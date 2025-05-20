@@ -1,12 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\03 .FSbatch 03\\.NetCoreFSOnlineBatch-03\\Csharp\\Csharp-chapter 2\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\",
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Workshop\\Workshop 1\\Admin_Job\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
