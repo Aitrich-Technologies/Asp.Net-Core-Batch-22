@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\bin\Debug\net8.0\JobProviderApplication.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\bin\Debug\net8.0\JobProviderApplication.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\bin\Debug\net8.0\JobProviderApplication.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\bin\Debug\net8.0\JobProviderApplication.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\bin\Debug\net8.0\JobProviderApplication.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\refint\JobProviderApplication.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\JobProviderApplication.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\JobProviderApplication\obj\Debug\net8.0\ref\JobProviderApplication.dll
