@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\bin\Debug\net8.0\HireMeNow.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\bin\Debug\net8.0\HireMeNow.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\bin\Debug\net8.0\HireMeNow.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\bin\Debug\net8.0\HireMeNow.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\bin\Debug\net8.0\HireMeNow.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\refint\HireMeNow.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\HireMeNow.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\HireMeNow\obj\Debug\net8.0\ref\HireMeNow.dll

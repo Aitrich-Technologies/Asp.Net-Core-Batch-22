@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\manager\\jobseekermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:manager\\jobseekermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:models\\jobseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:enums\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\interface\\iappliedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:interface\\iappliedjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\hiremenow\\hiremenow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15174728-689B-4E06-BFD1-9CF8260213B9}|HireMeNow.csproj|solutionrelative:hiremenow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppliedJobs.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Interface\\IAppliedJobs.cs",
+              "RelativeDocumentMoniker": "Interface\\IAppliedJobs.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Interface\\IAppliedJobs.cs",
+              "RelativeToolTip": "Interface\\IAppliedJobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:56:36.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvykAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:59:42.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobSeekerManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Manager\\JobSeekerManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobSeekerManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Manager\\JobSeekerManager.cs",
+              "RelativeToolTip": "Manager\\JobSeekerManager.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:50:57.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Manager\\JobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:50:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobSeeker.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Models\\JobSeeker.cs",
+              "RelativeDocumentMoniker": "Models\\JobSeeker.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Models\\JobSeeker.cs",
+              "RelativeToolTip": "Models\\JobSeeker.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:02:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:02:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HireMeNow.csproj",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\HireMeNow.csproj",
+              "RelativeDocumentMoniker": "HireMeNow.csproj",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\HireMeNow.csproj",
+              "RelativeToolTip": "HireMeNow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T04:55:38.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExperienceLevel.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Enums\\ExperienceLevel.cs",
+              "RelativeDocumentMoniker": "Enums\\ExperienceLevel.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\HireMeNow\\Enums\\ExperienceLevel.cs",
+              "RelativeToolTip": "Enums\\ExperienceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:06:57.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Excercise\\HireMeNow_AdminApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B15BC8B-1E26-4021-A858-D1F6DD1AA58D}|HireMeNow_AdminApp\\HireMeNow_AdminApp.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\excercise\\hiremenow_adminapp\\hiremenow_adminapp\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B15BC8B-1E26-4021-A858-D1F6DD1AA58D}|HireMeNow_AdminApp\\HireMeNow_AdminApp.csproj|solutionrelative:hiremenow_adminapp\\managers\\adminmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B15BC8B-1E26-4021-A858-D1F6DD1AA58D}|HireMeNow_AdminApp\\HireMeNow_AdminApp.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\c#\\chapter 2\\oops\\excercise\\hiremenow_adminapp\\hiremenow_adminapp\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B15BC8B-1E26-4021-A858-D1F6DD1AA58D}|HireMeNow_AdminApp\\HireMeNow_AdminApp.csproj|solutionrelative:hiremenow_adminapp\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Excercise\\HireMeNow_AdminApp\\HireMeNow_AdminApp\\Managers\\AdminManager.cs",
+              "RelativeDocumentMoniker": "HireMeNow_AdminApp\\Managers\\AdminManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Excercise\\HireMeNow_AdminApp\\HireMeNow_AdminApp\\Managers\\AdminManager.cs",
+              "RelativeToolTip": "HireMeNow_AdminApp\\Managers\\AdminManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:31:53.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Excercise\\HireMeNow_AdminApp\\HireMeNow_AdminApp\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "HireMeNow_AdminApp\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\C#\\chapter 2\\OOPs\\Excercise\\HireMeNow_AdminApp\\HireMeNow_AdminApp\\Enums\\Roles.cs",
+              "RelativeToolTip": "HireMeNow_AdminApp\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:10:12.968Z",
+              "EditorCaption": ""
             }
           ]
         }
