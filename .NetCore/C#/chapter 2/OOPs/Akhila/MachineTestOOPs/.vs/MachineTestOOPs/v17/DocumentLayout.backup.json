@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\machinetestoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\machinetestoops\\manager\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|solutionrelative:manager\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\machinetestoops\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|solutionrelative:models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\machinetestoops\\models\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|solutionrelative:models\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\machinetestoops\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\oops\\machinetestoops\\interface\\imaintenancefee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A45B814-6AAE-40E7-A5FD-09D9214367FF}|MachineTestOOPs.csproj|solutionrelative:interface\\imaintenancefee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Manager\\AccountManager.cs",
+              "RelativeDocumentMoniker": "Manager\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Manager\\AccountManager.cs",
+              "RelativeToolTip": "Manager\\AccountManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:00:33.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Models\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Models\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Models\\CurrentAccount.cs",
+              "RelativeToolTip": "Models\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:58:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvx4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:48:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Models\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Models\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Models\\SavingsAccount.cs*",
+              "RelativeToolTip": "Models\\SavingsAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:55:56.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMaintenanceFee.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Interface\\IMaintenanceFee.cs",
+              "RelativeDocumentMoniker": "Interface\\IMaintenanceFee.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Interface\\IMaintenanceFee.cs",
+              "RelativeToolTip": "Interface\\IMaintenanceFee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:34:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\OOPs\\MachineTestOOPs\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:54:09.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
