@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\bin\Debug\net8.0\MachineTestOOPs.exe
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\bin\Debug\net8.0\MachineTestOOPs.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\bin\Debug\net8.0\MachineTestOOPs.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\bin\Debug\net8.0\MachineTestOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\bin\Debug\net8.0\MachineTestOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\refint\MachineTestOOPs.dll
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.pdb
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\MachineTestOOPs.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\OOPs\MachineTestOOPs\obj\Debug\net8.0\ref\MachineTestOOPs.dll
