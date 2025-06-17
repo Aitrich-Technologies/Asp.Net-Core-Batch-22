@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\bin\Debug\net8.0\Workshop4_CollExcpLinq.exe
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\bin\Debug\net8.0\Workshop4_CollExcpLinq.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\bin\Debug\net8.0\Workshop4_CollExcpLinq.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\bin\Debug\net8.0\Workshop4_CollExcpLinq.dll
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\bin\Debug\net8.0\Workshop4_CollExcpLinq.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.dll
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\refint\Workshop4_CollExcpLinq.dll
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\Workshop4_CollExcpLinq.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Workshop4_CollExcpLinq\obj\Debug\net8.0\ref\Workshop4_CollExcpLinq.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Workshop4_CollExcpLinq/1.0.0": {
+        "runtime": {
+          "Workshop4_CollExcpLinq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Workshop4_CollExcpLinq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

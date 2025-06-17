@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1422EA76-BE85-46EF-9B6A-5F5D16166F35}|Activity1_Collections.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\collections\\activity1_collections\\manager\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422EA76-BE85-46EF-9B6A-5F5D16166F35}|Activity1_Collections.csproj|solutionrelative:manager\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422EA76-BE85-46EF-9B6A-5F5D16166F35}|Activity1_Collections.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\collections\\activity1_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422EA76-BE85-46EF-9B6A-5F5D16166F35}|Activity1_Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1422EA76-BE85-46EF-9B6A-5F5D16166F35}|Activity1_Collections.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\collections\\activity1_collections\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1422EA76-BE85-46EF-9B6A-5F5D16166F35}|Activity1_Collections.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\Manager\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "Manager\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\Manager\\EmployeeManager.cs",
+              "RelativeToolTip": "Manager\\EmployeeManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:16:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA0AAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:27:52.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Collections\\Activity1_Collections\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:14:03.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

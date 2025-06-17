@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\bin\Debug\net8.0\Activity5_Collections.exe
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\bin\Debug\net8.0\Activity5_Collections.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\bin\Debug\net8.0\Activity5_Collections.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\bin\Debug\net8.0\Activity5_Collections.dll
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\bin\Debug\net8.0\Activity5_Collections.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.dll
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\refint\Activity5_Collections.dll
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\Activity5_Collections.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Collections\Activity5_Collections\obj\Debug\net8.0\ref\Activity5_Collections.dll

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\bin\Debug\net8.0\Activity6_LINQ.exe
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\bin\Debug\net8.0\Activity6_LINQ.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\bin\Debug\net8.0\Activity6_LINQ.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\bin\Debug\net8.0\Activity6_LINQ.dll
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\bin\Debug\net8.0\Activity6_LINQ.pdb
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.dll
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\refint\Activity6_LINQ.dll
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.pdb
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\Activity6_LINQ.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\LINQ(30-05-2025)\Activities\Activity6_LINQ\obj\Debug\net8.0\ref\Activity6_LINQ.dll
