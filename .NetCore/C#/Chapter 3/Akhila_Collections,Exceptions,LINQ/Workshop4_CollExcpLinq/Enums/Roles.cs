@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Workshop4_CollExcpLinq.Enums
+{
+    public enum Roles
+    {
+        Admin,JobProvider,JobSeeker
+    }
+}

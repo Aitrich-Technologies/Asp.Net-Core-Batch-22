@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\bin\Debug\net8.0\MachineTest_CollExcLinq.exe
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\bin\Debug\net8.0\MachineTest_CollExcLinq.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\bin\Debug\net8.0\MachineTest_CollExcLinq.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\bin\Debug\net8.0\MachineTest_CollExcLinq.dll
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\bin\Debug\net8.0\MachineTest_CollExcLinq.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.dll
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\refint\MachineTest_CollExcLinq.dll
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\MachineTest_CollExcLinq.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_CollExcLinq\obj\Debug\net8.0\ref\MachineTest_CollExcLinq.dll

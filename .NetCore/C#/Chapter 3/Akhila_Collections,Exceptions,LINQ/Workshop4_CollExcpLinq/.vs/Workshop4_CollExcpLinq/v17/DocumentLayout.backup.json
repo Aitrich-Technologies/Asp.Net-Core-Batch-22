@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:manager\\publicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:manager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:manager\\jobmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:interfaces\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\workshop4_collexcplinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:workshop4_collexcplinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\exceptions\\invalidformatexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:exceptions\\invalidformatexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\models\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:models\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\enums\\experiencelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:enums\\experiencelevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:models\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\workshop4_collexcplinq\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00B3F39-BD23-4673-917A-13187E0EAC1D}|Workshop4_CollExcpLinq.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Manager\\UserManager.cs",
+              "RelativeDocumentMoniker": "Manager\\UserManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Manager\\UserManager.cs",
+              "RelativeToolTip": "Manager\\UserManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:29:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:42:34.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Manager\\PublicManager.cs",
+              "RelativeDocumentMoniker": "Manager\\PublicManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Manager\\PublicManager.cs*",
+              "RelativeToolTip": "Manager\\PublicManager.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:36:02.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobManager.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Manager\\JobManager.cs",
+              "RelativeDocumentMoniker": "Manager\\JobManager.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Manager\\JobManager.cs",
+              "RelativeToolTip": "Manager\\JobManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:18:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:59:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:35:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Interfaces\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Interfaces\\IJobRepository.cs",
+              "RelativeToolTip": "Interfaces\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:30:17.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Workshop4_CollExcpLinq.csproj",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Workshop4_CollExcpLinq.csproj",
+              "RelativeDocumentMoniker": "Workshop4_CollExcpLinq.csproj",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Workshop4_CollExcpLinq.csproj",
+              "RelativeToolTip": "Workshop4_CollExcpLinq.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T13:59:37.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidFormatExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Exceptions\\InvalidFormatExceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidFormatExceptions.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Exceptions\\InvalidFormatExceptions.cs",
+              "RelativeToolTip": "Exceptions\\InvalidFormatExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:16:02.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\UserAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "Exceptions\\UserAlreadyExistsException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:05:25.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:33:04.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Interfaces\\IMenu.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMenu.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Interfaces\\IMenu.cs",
+              "RelativeToolTip": "Interfaces\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:31:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Models\\Jobs.cs",
+              "RelativeDocumentMoniker": "Models\\Jobs.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Models\\Jobs.cs",
+              "RelativeToolTip": "Models\\Jobs.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:54:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Applications.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Models\\Applications.cs",
+              "RelativeDocumentMoniker": "Models\\Applications.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Models\\Applications.cs",
+              "RelativeToolTip": "Models\\Applications.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:49:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:18:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExperienceLevels.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Enums\\ExperienceLevels.cs",
+              "RelativeDocumentMoniker": "Enums\\ExperienceLevels.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Enums\\ExperienceLevels.cs",
+              "RelativeToolTip": "Enums\\ExperienceLevels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:12:22.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Workshop4_CollExcpLinq\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:10:43.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.AssemblyInfoInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.AssemblyInfo.cs
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.csproj.CoreCompileInputs.cache
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\bin\Debug\net8.0\Exceptions_Activity1.exe
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\bin\Debug\net8.0\Exceptions_Activity1.deps.json
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\bin\Debug\net8.0\Exceptions_Activity1.runtimeconfig.json
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\bin\Debug\net8.0\Exceptions_Activity1.dll
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\bin\Debug\net8.0\Exceptions_Activity1.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.dll
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\refint\Exceptions_Activity1.dll
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.pdb
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\Exceptions_Activity1.genruntimeconfig.cache
+C:\Users\rithi\Desktop\AitrichRepo\Exceptions(04062025)\Exceptions_Activity1\obj\Debug\net8.0\ref\Exceptions_Activity1.dll
