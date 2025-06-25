@@ -1,0 +1,7 @@
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe.config
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.exe
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\bin\Debug\AdminProfile.pdb
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.AssemblyReference.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.exe
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 1\Workshop\WorkShop-1\AdminProfile\AdminProfile\obj\Debug\AdminProfile.pdb
