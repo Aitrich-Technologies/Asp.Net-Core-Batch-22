@@ -12,3 +12,18 @@ C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_Library\obj\Debug\net8.
 C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.pdb
 C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.genruntimeconfig.cache
 C:\Users\rithi\Desktop\AitrichRepo\Workshop2\MachineTest_Library\obj\Debug\net8.0\ref\MachineTest_Library.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\bin\Debug\net8.0\MachineTest_Library.exe
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\bin\Debug\net8.0\MachineTest_Library.deps.json
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\bin\Debug\net8.0\MachineTest_Library.runtimeconfig.json
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\bin\Debug\net8.0\MachineTest_Library.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\bin\Debug\net8.0\MachineTest_Library.pdb
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.AssemblyInfoInputs.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.AssemblyInfo.cs
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.sourcelink.json
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\refint\MachineTest_Library.dll
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.pdb
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\MachineTest_Library.genruntimeconfig.cache
+D:\Reeshma\.netCore Bootcamp\22. batch 22\Asp.Net-Core-Batch-22\.NetCore\C#\Chapter 3\Akhila_Collections,Exceptions,LINQ\MachineTest_Library\obj\Debug\net8.0\ref\MachineTest_Library.dll

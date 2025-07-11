@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MachineTest_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0e78d492249e6c8028c8a6afd7046ba97bee2fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MachineTest_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MachineTest_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
