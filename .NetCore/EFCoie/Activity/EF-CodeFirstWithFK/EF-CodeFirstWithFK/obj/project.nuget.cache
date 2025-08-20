@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eDhZJ8TJLto=",
+  "dgSpecHash": "llxDjjxyidI=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 6\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
+  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

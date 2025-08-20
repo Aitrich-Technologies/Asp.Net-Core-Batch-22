@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 6\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj": {}
+    "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj": {}
   },
   "projects": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 6\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj": {
+    "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 6\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
         "projectName": "EF-CodeFirstWithFK",
-        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 6\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 6\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\obj\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\EF-CodeFirstWithFK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
