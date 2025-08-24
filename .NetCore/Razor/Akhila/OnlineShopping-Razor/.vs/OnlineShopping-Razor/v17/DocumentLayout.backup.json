@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\extentions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:extentions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\loginpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\loginpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\repository\\onlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:repository\\onlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\services\\onlineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:services\\onlineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\shopping cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\shopping cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\shopping cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\shopping cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\onlineshopping-razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:onlineshopping-razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\registrationpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\registrationpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\onlineshoppingpages\\registrationpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\onlineshoppingpages\\registrationpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\onlineshopping-razor\\model\\onlineuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AD925E-1A27-49F7-8F0A-83F153ADDE55}|OnlineShopping-Razor.csproj|solutionrelative:model\\onlineuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\LoginPage.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\LoginPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\LoginPage.cshtml.cs",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\LoginPage.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:46:15.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnlineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Repository\\OnlineRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OnlineRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Repository\\OnlineRepository.cs",
+              "RelativeToolTip": "Repository\\OnlineRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:36:10.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:16:45.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineServices.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Services\\OnlineServices.cs",
+              "RelativeDocumentMoniker": "Services\\OnlineServices.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Services\\OnlineServices.cs",
+              "RelativeToolTip": "Services\\OnlineServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:38:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Extentions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extentions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Extentions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extentions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:18:26.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T10:40:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:43:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shopping Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Shopping Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\Shopping Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Shopping Cart.cshtml.cs",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\Shopping Cart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:03:32.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shopping Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Shopping Cart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\Shopping Cart.cshtml",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\Shopping Cart.cshtml",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\Shopping Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T12:37:05.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:52:48.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\RegistrationPage.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\RegistrationPage.cshtml",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\RegistrationPage.cshtml",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\RegistrationPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T11:13:07.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\RegistrationPage.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OnlineShoppingPages\\RegistrationPage.cshtml.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\OnlineShoppingPages\\RegistrationPage.cshtml.cs",
+              "RelativeToolTip": "Pages\\OnlineShoppingPages\\RegistrationPage.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:13:22.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:07:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OnlineShopping-Razor.csproj",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\OnlineShopping-Razor.csproj",
+              "RelativeDocumentMoniker": "OnlineShopping-Razor.csproj",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\OnlineShopping-Razor.csproj",
+              "RelativeToolTip": "OnlineShopping-Razor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T10:35:21.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T11:06:52.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T10:15:48.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Model\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Model\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Model\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:12:53.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OnlineUser.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Model\\OnlineUser.cs",
+              "RelativeDocumentMoniker": "Model\\OnlineUser.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\OnlineShopping-Razor\\Model\\OnlineUser.cs",
+              "RelativeToolTip": "Model\\OnlineUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:05:11.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\",
+=======
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\EFCoie\\Activity\\EF-CodeFirstWithFK\\",
+>>>>>>> a7367ed546fe6533c1ecf69db965115bb2313e97
   "Documents": [],
   "DocumentGroupContainers": [
     {

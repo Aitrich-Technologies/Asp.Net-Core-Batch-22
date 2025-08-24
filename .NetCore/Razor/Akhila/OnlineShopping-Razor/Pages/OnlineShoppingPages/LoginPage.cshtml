@@ -1,0 +1,16 @@
+﻿@page
+@model OnlineShopping_Razor.Pages.OnlineShoppingPages.LoginPageModel
+@{
+}
+<h1>Login</h1>
+<form method="post">
+    <label>User Name:</label>
+    <input type="text" asp-for="Username" required/>
+    <span asp-validation-for="Username"></span>
+
+    <label>Password:</label>
+    <input type="password" asp-for="Password" required/>
+    <span asp-validation-for="Password"></span>
+
+    <button class="btn btn-primary" type="submit">Login</button>
+</form>

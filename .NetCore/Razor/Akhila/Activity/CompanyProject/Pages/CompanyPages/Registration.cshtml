@@ -1,0 +1,22 @@
+﻿@page
+@model CompanyProject.Pages.RegistrationModel
+@{
+}
+<h2>REGISTRATION</h2>
+<form method="post">
+    <label>UserName:</label>
+    <input type="text" asp-for="NewUser.name" required />
+    <span asp-validation-for="NewUser.name"></span>
+
+    <label>Email Id:</label>
+    <input type="text" asp-for="NewUser.email" required />
+    <span asp-validation-for="NewUser.email"></span>
+
+    <label>Password</label>
+    <input asp-for="NewUser.password" required />
+    <span asp-validation-for="NewUser.password"></span>
+
+
+    <button type="submit" class="btn btn-primary mt-3">Register</button>
+    <a href="/CompanyPages/Login">Login</a>
+</form>

@@ -1,0 +1,16 @@
+﻿@page
+@model LibrarySystem.Pages.Library.RegisterPageModel
+@{
+}
+
+<form method="post">
+    <label>UserName:</label>
+    <input type="text" asp-for="libraryRole.UserRole" required />
+    <span asp-validation-for="libraryRole.UserRole"></span>
+
+    <label>Password:</label>
+    <input type="text" asp-for="libraryRole.Password" required />
+    <span asp-validation-for="libraryRole.Password"></span>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
