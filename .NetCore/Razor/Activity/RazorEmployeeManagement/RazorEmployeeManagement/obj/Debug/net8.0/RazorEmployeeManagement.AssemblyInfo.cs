@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorEmployeeManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e41e2b2856e7d0fdb905ed955313c9e0e79d96a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b685962768f9f5d64447f2eaf712a15ea398807")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorEmployeeManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorEmployeeManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

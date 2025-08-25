@@ -1,0 +1,26 @@
+﻿@page
+@model Activity_Razor.Pages.StudentPages.EditModel
+@{
+}
+<h2>Edit Job Post</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="GetStudent.Id" />
+
+    <div class="form-group">
+        <label asp-for="GetStudent.Name" class="control-label"></label>
+        <input asp-for="GetStudent.Name" class="form-control" />
+        <span asp-validation-for="GetStudent.Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GetStudent.Address" class="control-label"></label>
+        <input asp-for="GetStudent.Address" class="form-control" />
+        <span asp-validation-for="GetStudent.Address" class="text-danger"></span>
+    </div>
+     
+
+   
+    <button type="submit" class="btn btn-success mt-3">Save Changes</button>
+    <a asp-page="Index" class="btn btn-secondary mt-3">Cancel</a>
+</form>

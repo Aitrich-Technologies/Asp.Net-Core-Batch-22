@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\models\\studentrcrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:models\\studentrcrd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\pages\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:pages\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Migrations\\20250721103622_StudentRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250721103622_StudentRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\webapplication3_activity\\webapplication3_activity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{295E5C09-9591-4840-9CD2-015F929FB3E3}|WebApplication3_Activity.csproj|solutionrelative:webapplication3_activity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:43:46.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:42:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Pages\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Pages\\AddStudent.cshtml",
+              "RelativeToolTip": "Pages\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-21T10:38:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250721103622_StudentRecords.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Migrations\\20250721103622_StudentRecords.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250721103622_StudentRecords.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Migrations\\20250721103622_StudentRecords.cs",
+              "RelativeToolTip": "Migrations\\20250721103622_StudentRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:36:25.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:27:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T10:24:14.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:09:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRcrd.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Models\\StudentRcrd.cs",
+              "RelativeDocumentMoniker": "Models\\StudentRcrd.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\Models\\StudentRcrd.cs",
+              "RelativeToolTip": "Models\\StudentRcrd.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:04:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication3_Activity",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\WebApplication3_Activity.csproj",
+              "RelativeDocumentMoniker": "WebApplication3_Activity.csproj",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\WebApplication3_Activity\\WebApplication3_Activity.csproj",
+              "RelativeToolTip": "WebApplication3_Activity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T09:59:40.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

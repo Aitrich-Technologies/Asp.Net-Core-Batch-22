@@ -1,0 +1,17 @@
+﻿@page
+@model LibrarySystem.Pages.Library.IndexModel
+@{
+}
+<h2>Welcome to Library System</h2>
+<form method="post">
+    <label>Enter your Role(UserName):</label>
+    <input type="text" asp-for="Role" required />
+    <span asp-validation-for="Role"></span>
+
+    <label>Password:</label>
+    <input type="password" asp-for="Password" required/>
+    <span asp-validation-for="Password"></span>
+
+    <button type="submit">Login</button>
+    <a asp-page="./RegisterPage" class="btn btn-primary">Register Now</a>
+</form>

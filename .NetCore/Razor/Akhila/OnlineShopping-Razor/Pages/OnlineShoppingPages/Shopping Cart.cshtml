@@ -1,0 +1,27 @@
+﻿@page
+@model OnlineShopping_Razor.Pages.OnlineShoppingPages.Shopping_CartModel
+@{
+}
+h1> Products in cart</h1>
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ProductName</th>
+            <th>ProductPrice</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.GetProducts)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.Price</td>
+                <form method="post">
+                <td><button class="btn btn-primary" type="submit">Add to Cart</button></td>
+                </form>
+            </tr>
+        }
+
+    </tbody>
+</table>

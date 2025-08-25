@@ -1,0 +1,26 @@
+﻿@page
+@model LibrarySystem.Pages.Library.UserPageModel
+@{
+}
+<h2>Welcome </h2>
+<table class="table">
+    <thead class="thead-dark">
+        <tr><th>Book Id</th>
+            <th>Title</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var book in Model.GetBooks)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+            
+            </tr>
+        }
+        
+    </tbody>
+    
+</table>

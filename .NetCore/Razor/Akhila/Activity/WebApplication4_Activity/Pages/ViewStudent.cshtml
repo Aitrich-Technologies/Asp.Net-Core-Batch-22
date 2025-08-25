@@ -1,0 +1,35 @@
+﻿@page
+@model WebApplication4_Activity.Pages.ViewStudentModel
+@{
+}
+<h2>Student List</h2>
+
+<a asp-page="Create" class="btn btn-primary mb-3">Create New Job</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>StudentId</th>
+            <th>Student Name</th>
+            <th>Address</th>
+            <th>Course</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var studnt in Model.StudentsList)
+        {
+            <tr>
+                <td>@studnt.Id</td>
+                <td>@studnt.Name</td>
+                <td>@studnt.Address</td>
+                <td>@studnt.Course</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@studnt.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-page="Details" asp-route-id="@studnt.Id" class="btn btn-info btn-sm">View</a>
+                    <a asp-page="Delete" asp-route-id="@studnt.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

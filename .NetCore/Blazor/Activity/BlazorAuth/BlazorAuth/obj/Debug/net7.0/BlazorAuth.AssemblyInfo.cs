@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e41e2b2856e7d0fdb905ed955313c9e0e79d96a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabcdda4e2292f4b7a573a789fadaf47eeb193f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
