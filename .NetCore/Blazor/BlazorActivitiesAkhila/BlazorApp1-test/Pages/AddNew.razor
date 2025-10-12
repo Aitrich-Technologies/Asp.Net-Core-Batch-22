@@ -1,0 +1,27 @@
+﻿@page "/AddNew"
+@using BlazorApp1_test.Model
+@using BlazorApp1_test.Dto
+@using BlazorApp1_test.Service
+@inject NameService nameService
+<h3>AddNew</h3>
+
+<EditForm Model="newname" OnValidSubmit="addnew" >
+    <label>Id:</label>
+    <InputNumber @bind-value="newname.Id" />
+    <label>Name:</label>
+    <InputText @bind-value="newname.Name"/>
+    <button type="submit" class="btn btn-primary">Add</button>
+    <a class="btn btn-primary"  href="/">Back</a>
+</EditForm>
+
+
+@code {
+    name newname = new();
+   
+    protected void addnew()
+    {
+        
+        nameService.AddNewName(newname);
+      
+    }
+}

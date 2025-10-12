@@ -1,0 +1,36 @@
+﻿@page "/"
+@using JobProviderBlazor.Model
+@using JobProviderBlazor.Dto
+@using JobProviderBlazor.Service
+@inject NavigationManager navigator
+@inject JobProviderService ProviderService
+<h3>Registration</h3>
+<EditForm Model="@provider" OnValidSubmit="RegistrationProvider">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <label>Name:</label>
+    <InputText @bind-value="provider.Name" />
+    <label>Email:</label>
+    <InputText @bind-value="provider.Email" />
+    <label>Password:</label>
+    <InputText @bind-value="provider.Password" />
+    <button type="submit" class="btn btn-primary">Register</button>
+    @if(isButtonTwoEnabled)
+    {
+        <p><a disabled="@(!isButtonTwoEnabled)" href="/Login">Login</a></p>
+    }
+    <a href="/Index">JOBLISt</a>
+</EditForm>
+<p>@status</p>
+@code {
+    public JobProviderDto provider = new JobProviderDto();
+    public string? status;
+    private bool isButtonTwoEnabled = false;
+    public async Task RegistrationProvider()
+    {
+        //Console.WriteLine(provider);
+        status = await ProviderService.ProviderRegistration(provider);
+        isButtonTwoEnabled = true;
+        // navigator.NavigateTo("/Login");
+    }
+}

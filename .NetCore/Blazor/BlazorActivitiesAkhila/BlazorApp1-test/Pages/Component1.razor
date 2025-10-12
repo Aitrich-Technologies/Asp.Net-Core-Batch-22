@@ -1,0 +1,30 @@
+﻿@page "/"
+@using BlazorApp1_test.Dto
+@using BlazorApp1_test.Service
+@using BlazorApp1_test.Model
+@inject NameService namservice
+<h3>Component1</h3>
+@* <p>@x</p> *@
+@foreach(var nam in names)
+{
+   @* <p>@nam.Id</p> *@
+   <p>@nam.Name
+   <button @onclick="()=>Deletename(nam.Name)">Delete</button></p>
+   <a href="/Editname/@nam">Edit</a>
+}
+<a class="btn btn-primary" href="/AddNew">Add New</a>
+@code {
+    // string x = "Hello";
+
+    List<nameDto> names = new List<nameDto>();
+    protected override async Task OnInitializedAsync()
+    {
+        names=namservice.GetNames();
+    }
+    public void Deletename(string deletenam)
+    {
+        namservice.deletenamebyname(deletenam);
+    }
+  
+
+}

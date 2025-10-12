@@ -1,0 +1,37 @@
+﻿@page "/"
+@using Microsoft.EntityFrameworkCore;
+@using Blazor_MachineTest.Services;
+@using Blazor_MachineTest.Model;
+@inject PetServices petService;
+
+<div class="d-flex h-100 row g-4">  
+    <h3>Add Pet Details here</h3>
+    <EditForm Model="@newPet" OnValidSubmit="addPet">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <label class="form-label d-block bg-gradient p-1">Pet Name:</label>
+    <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newPet.Name/>
+    <label class="form-label d-block bg-gradient p-1">Pet Type:</label>
+    <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newPet.Type/>
+    <label class="form-label d-block bg-gradient p-1">Age of Pet:</label>
+    <InputNumber class="form-control d-block bg-light p-1 border-1" @bind-Value=@newPet.Age/>
+    <label class="form-label d-block bg-gradient p-1">Price of Pet:</label>
+    <InputNumber class="form-control d-block bg-light p-1 border-1" @bind-Value=@newPet.Price/>
+    <label class="form-label d-block bg-gradient p-1">Image Path:</label>
+    <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newPet.imagepath />
+    <button class="btn btn-primary">Add Pet</button>
+    <a class="btn btn-primary" href="/Index">Show List</a>
+    </EditForm>
+</div>
+
+
+@code {
+
+    public Pet newPet = new Pet();
+
+    public void addPet()
+    {
+        petService.AddPetdetails(newPet);
+        //navigator.NavigateTo("/Index");
+    }
+}
