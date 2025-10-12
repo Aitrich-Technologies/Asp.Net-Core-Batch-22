@@ -1,0 +1,34 @@
+﻿@page "/AddJob/{id:int}"
+@using JobProviderBlazor.Service
+@using JobProviderBlazor.Dto
+@using JobProviderBlazor.Model
+@inject JobService service
+@inject NavigationManager navigator
+<h3>AddJob</h3>
+<EditForm Model="@newJob" OnValidSubmit="addNewJob">
+    <ValidationSummary/>
+    <DataAnnotationsValidator/>
+    <label>Job Title:</label>
+    <InputText @bind-Value=newJob.Title/>
+    <label>Job Description:</label>
+    <InputText @bind-Value=newJob.Description />
+    <label>Job Location:</label>
+    <InputText @bind-Value=newJob.Location />
+    <label>Job Salary:</label>
+    <InputNumber @bind-Value=newJob.Salary/>
+    @* <label>Provider Id:</label>
+    <InputText Value="id"/> *@
+    
+<button class="btn btn-primary" type="submit">ADD</button>
+<a class="btn btn-primary" href="/Index">List Jobs</a>
+</EditForm>
+@code {
+    [Parameter]
+    public int id { get; set; }
+    JobDto newJob = new JobDto();
+    public async Task addNewJob()
+    {
+        await service.AddJob(newJob,id);
+        navigator.NavigateTo("/Index");
+    }
+}

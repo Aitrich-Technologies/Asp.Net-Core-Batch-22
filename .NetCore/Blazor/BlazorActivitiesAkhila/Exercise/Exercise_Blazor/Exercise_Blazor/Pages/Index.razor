@@ -1,0 +1,48 @@
+﻿@page "/Index"
+@using Microsoft.EntityFrameworkCore;
+@using System.Linq;
+@using Exercise_Blazor.Model;
+@using Exercise_Blazor.Services;
+@inject NavigationManager Navigator;
+@inject JobDetailServices JobDetailServices;
+<div style="height:100px,width:1000px;background-color:antiquewhite">
+    @foreach (var job in ListJobs)
+{
+        <div style="width:700px;height:200px;background-color:">
+        <div class="row">
+            <div class="col-md-2">
+                <img class="img-fluid" src="/Images/girl.png" alt="image" height="50px" width="50px"></div>
+            <div class="col-md-5">
+                <h2>@job.JobTitle</h2>
+                <h4>@job.JobDescription</h4>
+
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary" @onclick="() => RemoveJob(job.Id)">Remove</button>
+
+            </div>
+            
+          </div>
+
+    </div>
+}
+    <div class="col-md-3">
+        <img src="Images/olivia-round.jpg" class="img-fluid bg-info">
+        @* <img src="olivia-round.jpg" class="img-fluid bg-info" > *@
+    </div>
+</div>
+
+
+@code{
+    public List<JobDetail> ListJobs = new List<JobDetail>();
+    protected override async Task OnInitializedAsync()
+    {
+        ListJobs = await JobDetailServices.GetAllJobsAsync();
+    }
+    public async Task RemoveJob(int id)
+    {
+        int jobid = id;
+        await JobDetailServices.RemoveJobbyIdAsync(jobid);
+        Navigator.NavigateTo("/Index");
+    }
+}

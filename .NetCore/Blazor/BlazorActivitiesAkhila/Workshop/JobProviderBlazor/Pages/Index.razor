@@ -1,0 +1,51 @@
+﻿@page "/Index"
+@using JobProviderBlazor.Service
+@using JobProviderBlazor.Dto
+@inject JobService service
+@inject NavigationManager navigator
+
+<style>
+    .data-table {
+        border-collapse: collapse; /* Essential for a neat single-line border */
+        width: 100%;
+    }
+
+</style>
+@if (ListJobs == null)
+{
+    <p>Loading......</p>
+}
+else
+{
+    <table class="data-table col-md-6">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Location</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var job in ListJobs)
+            {
+                <tr>
+                    <td>@job.Title</td>
+                    <td>@job.Description</td>
+                    <td>@job.Location</td>
+                    <td>@job.Salary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+}
+
+@code {
+    private List<JobDto> ListJobs;
+
+    protected override async Task OnInitializedAsync()
+    {
+        ListJobs = await service.GetAllJobs();
+    }
+}

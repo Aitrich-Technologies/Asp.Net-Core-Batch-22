@@ -1,0 +1,28 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>Exercise_Blazor</PageTitle>
+<style>
+    .button1
+    {
+        background-color:beige;
+        border-radius:25%;
+        font-size:medium;
+        color:red;
+    }
+</style>
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            @* <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a> *@
+            <button class="button1">LogOut</button>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
