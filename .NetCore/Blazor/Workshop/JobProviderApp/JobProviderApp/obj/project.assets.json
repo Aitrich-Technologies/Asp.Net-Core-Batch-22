@@ -3545,11 +3545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+      "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
       "projectName": "JobProviderApp",
-      "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+      "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\",
+      "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

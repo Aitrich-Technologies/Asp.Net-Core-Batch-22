@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZVlIr6gt6I=",
+  "dgSpecHash": "8tt1OkW6lfc=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 8\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\22. batch 22\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
