@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\repository\\namerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:repository\\namerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\pages\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:pages\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\pages\\editname.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:pages\\editname.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\service\\nameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:service\\nameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\dto\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:dto\\namedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazorapp1-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4522FC-41A6-4BB6-8348-1CB57AFBE119}|BlazorApp1-test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editname.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Pages\\Editname.razor",
+              "RelativeDocumentMoniker": "Pages\\Editname.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Pages\\Editname.razor",
+              "RelativeToolTip": "Pages\\Editname.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T12:16:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNew.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Pages\\AddNew.razor",
+              "RelativeDocumentMoniker": "Pages\\AddNew.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Pages\\AddNew.razor",
+              "RelativeToolTip": "Pages\\AddNew.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T10:21:22.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T12:10:08.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nameDto.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Dto\\nameDto.cs",
+              "RelativeDocumentMoniker": "Dto\\nameDto.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Dto\\nameDto.cs",
+              "RelativeToolTip": "Dto\\nameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T12:00:23.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:51:39.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Repository\\NameRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\NameRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Repository\\NameRepository.cs*",
+              "RelativeToolTip": "Repository\\NameRepository.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:43:58.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NameService.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Service\\NameService.cs",
+              "RelativeDocumentMoniker": "Service\\NameService.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Service\\NameService.cs",
+              "RelativeToolTip": "Service\\NameService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:28:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Pages\\Component1.razor",
+              "RelativeDocumentMoniker": "Pages\\Component1.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\BlazorApp1-test\\Pages\\Component1.razor",
+              "RelativeToolTip": "Pages\\Component1.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-13T11:01:03.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

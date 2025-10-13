@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazor_machinetest\\blazor_machinetest\\pages\\editpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|solutionrelative:blazor_machinetest\\pages\\editpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazor_machinetest\\blazor_machinetest\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|solutionrelative:blazor_machinetest\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazor_machinetest\\blazor_machinetest\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|solutionrelative:blazor_machinetest\\repository\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazor_machinetest\\blazor_machinetest\\services\\petservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|solutionrelative:blazor_machinetest\\services\\petservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazor_machinetest\\blazor_machinetest\\pages\\addpet.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|solutionrelative:blazor_machinetest\\pages\\addpet.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\blazor_machinetest\\blazor_machinetest\\dto\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00C2F47-D7DA-44DC-B6D9-DEE10BAAF1CB}|Blazor_MachineTest\\Blazor_MachineTest.csproj|solutionrelative:blazor_machinetest\\dto\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditPage.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Pages\\EditPage.razor",
+              "RelativeDocumentMoniker": "Blazor_MachineTest\\Pages\\EditPage.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Pages\\EditPage.razor",
+              "RelativeToolTip": "Blazor_MachineTest\\Pages\\EditPage.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T10:53:28.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetDto.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Dto\\PetDto.cs",
+              "RelativeDocumentMoniker": "Blazor_MachineTest\\Dto\\PetDto.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Dto\\PetDto.cs",
+              "RelativeToolTip": "Blazor_MachineTest\\Dto\\PetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:45:35.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPet.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Pages\\AddPet.razor",
+              "RelativeDocumentMoniker": "Blazor_MachineTest\\Pages\\AddPet.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Pages\\AddPet.razor",
+              "RelativeToolTip": "Blazor_MachineTest\\Pages\\AddPet.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T12:24:25.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Blazor_MachineTest\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Pages\\Index.razor",
+              "RelativeToolTip": "Blazor_MachineTest\\Pages\\Index.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T12:13:30.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetServices.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Services\\PetServices.cs",
+              "RelativeDocumentMoniker": "Blazor_MachineTest\\Services\\PetServices.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Services\\PetServices.cs",
+              "RelativeToolTip": "Blazor_MachineTest\\Services\\PetServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:49:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Repository\\PetRepository.cs",
+              "RelativeDocumentMoniker": "Blazor_MachineTest\\Repository\\PetRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\Blazor_MachineTest\\Blazor_MachineTest\\Repository\\PetRepository.cs",
+              "RelativeToolTip": "Blazor_MachineTest\\Repository\\PetRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:12:24.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

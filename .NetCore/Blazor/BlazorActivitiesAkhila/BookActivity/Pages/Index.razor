@@ -1,0 +1,71 @@
+﻿@page "/"
+@using BookActivity.Data
+@inject BookService bookService
+
+<PageTitle>Index</PageTitle>
+<style>
+    .card{
+        background-color: mediumslateblue;
+        border-radius: 25px;
+        margin: 5%;
+        padding: 3%;
+        color: blanchedalmond;
+    }
+</style>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <form @onsubmit="@AddBook">
+                    <label for="Name" class="control-label" >Book Name:</label>
+                    <input  class="form-control" id="Name" placeholder=" Enter Book Name" @bind="@book.Name"/>
+                    <label for="Description" class="control-label" >Book Description:</label>
+                    <input class="form-control" id="Description" placeholder=" Enter Book Description" @bind="@book.Description"/>
+                    <label for="Price" class="control-label">Book Price:</label>
+                    <input class="form-control" id="Price" placeholder=" Enter Book Price" @bind="@book.Price" /><br/><br/>
+                    <button class="btn btn-primary" >Add</button>
+                </form>
+
+            </div>
+            <div class="col-md-6">
+                @foreach(Book bk in bookList)
+                {
+                    <div class="card">
+                        <h4>@bk.Name</h4>
+                        <p>@bk.Description</p>
+                        <p>@bk.Price</p>
+                    </div>
+                }
+            </div>
+
+        </div>
+
+    </div>
+</body>
+@code{
+    Book book = new Book();
+    List<Book> bookList = new List<Book>();
+    protected override void OnInitialized()
+    {
+        bookList = bookService.GetAllBooks();
+    }
+    protected void AddBook()
+    {
+       
+        bookService.AddNewBook(book);
+        bookList = bookService.GetAllBooks();
+    }
+}
+
+
+
+
+
+
+
+
+@* <h1></h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" /> *@

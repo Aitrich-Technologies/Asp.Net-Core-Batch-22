@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:pages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:pages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:pages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\employeemanagementactivity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:employeemanagementactivity.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\extensions\\applicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:extensions\\applicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\model\\employeemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:model\\employeemgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\blazor\\blazoractivitiesakhila\\employeemanagementactivity\\employeemanagementactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E22086A-FBDD-4F8C-A6B2-E8F7AF33217D}|EmployeeManagementActivity.csproj|solutionrelative:employeemanagementactivity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "Services\\EmployeeServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:25:12.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeManagementActivity",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\EmployeeManagementActivity.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementActivity.csproj",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\EmployeeManagementActivity.csproj",
+              "RelativeToolTip": "EmployeeManagementActivity.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T09:55:38.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Delete.razor",
+              "RelativeDocumentMoniker": "Pages\\Delete.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Delete.razor",
+              "RelativeToolTip": "Pages\\Delete.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:05:31.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Edit.razor",
+              "RelativeDocumentMoniker": "Pages\\Edit.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Edit.razor",
+              "RelativeToolTip": "Pages\\Edit.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:05:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T11:52:59.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:20:44.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T10:58:09.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Extensions\\ApplicationServices.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServices.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Extensions\\ApplicationServices.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:00:20.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Create.razor",
+              "RelativeDocumentMoniker": "Pages\\Create.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Pages\\Create.razor",
+              "RelativeToolTip": "Pages\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T10:44:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Model\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Model\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Model\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:30:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeMgt.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Model\\EmployeeMgt.cs",
+              "RelativeDocumentMoniker": "Model\\EmployeeMgt.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Model\\EmployeeMgt.cs",
+              "RelativeToolTip": "Model\\EmployeeMgt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:11:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:00:25.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManagementActivity.csproj",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\EmployeeManagementActivity.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementActivity.csproj",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Blazor\\BlazorActivitiesAkhila\\EmployeeManagementActivity\\EmployeeManagementActivity.csproj",
+              "RelativeToolTip": "EmployeeManagementActivity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T10:11:16.22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

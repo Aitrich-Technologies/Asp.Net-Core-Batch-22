@@ -1,0 +1,60 @@
+﻿@page "/Login"
+@using JobProviderBlazor.Model
+@using JobProviderBlazor.Dto
+@using JobProviderBlazor.Service
+@inject JobProviderService providerService
+
+<h3>Login</h3>
+<EditForm Model="provider" OnValidSubmit="ProviderLogin">
+    <ValidationSummary/>
+    <DataAnnotationsValidator/>
+    <label>Email:</label>
+    <InputText @bind-Value="provider.Email"/>
+    <label>Password:</label>
+    <InputText @bind-Value="provider.Password"/>
+
+    <button class="btn btn-primary" type="submit">Login</button>
+    @if(isentry)
+    {
+        <p>
+            <a class="btn btn-primary" disabled="@(!isentry)" href="/Index">List Jobs</a>
+            <a class="btn btn-primary" disabled="@(!isentry)" href="@($"/AddJob/{id}")">Add Job</a>
+        </p>
+
+    }
+</EditForm>
+
+
+
+
+@code {
+    [Inject] private ILogger<Login> Logger { get; set; }
+
+    JobProviderDto provider = new();
+    public int id;
+    private bool isentry = false;
+
+    public async Task ProviderLogin()
+    {
+        try
+        {
+            var status = await providerService.validateProvider(provider);
+
+            if (status == null)
+            {
+                Logger.LogWarning("Login failed: Invalid credentials for email: {Email}", provider.Email);
+                string msg = "Wrong Username or Password";
+                return;
+            }
+
+            isentry = true;
+            id = status.Id;
+
+            Logger.LogInformation("ProviderLogin successful. Id={Id}, Email={Email}", status.Id, status.Email);
+        }
+        catch (Exception ex)
+        {
+            Logger.LogError(ex, "An error occurred during login.");
+        }
+    }
+}

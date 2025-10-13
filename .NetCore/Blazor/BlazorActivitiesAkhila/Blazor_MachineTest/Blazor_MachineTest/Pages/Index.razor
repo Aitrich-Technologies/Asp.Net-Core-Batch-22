@@ -1,0 +1,48 @@
+﻿@page "/Index"
+@using Blazor_MachineTest.Dto
+@using Blazor_MachineTest.Services
+@using Microsoft.EntityFrameworkCore;
+@using Blazor_MachineTest.Model;
+@inject NavigationManager navigator;
+@inject PetServices petServices;
+
+<html>
+<table>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Age</th>
+            <th>Price</th>
+            <th>Image</th>
+        </tr>
+         @foreach (var pet in petsList)
+         {
+            <tr>
+                <td>@pet.Name</td>
+                <td>@pet.Type</td>
+                <td>@pet.Age</td>
+                <td>@pet.Price</td>
+                <td>@pet.imagepath</td>
+                <td><button class="btn btn-primary" href="/EditPage/{@pet.ID}">Edit</button></td>
+                <td><button class="btn btn-primary">Delete</button></td>
+            </tr>
+       
+        }
+ </table>
+
+ </html>
+
+@code
+{
+    List<PetDto> petsList = new List<PetDto>();
+    protected override async Task OnInitializedAsync()
+    {
+
+        petsList =await petServices.GetAllPetsAsync();
+    }
+   public async Task deletePet(int id)
+   {
+       petServices.removePet(id);
+   }
+
+}

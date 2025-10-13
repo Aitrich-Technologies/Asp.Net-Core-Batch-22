@@ -1,0 +1,25 @@
+﻿@page "/Editname/{nam:name}"
+@using BlazorApp1_test.Service
+@using BlazorApp1_test.Model
+@inject NameService service
+<h3>Editname</h3>
+<EditForm Model="nam" OnValidSubmit="updatedetails">
+    <label>Id:</label>
+    <InputNumber @bind-Value=nam.Id></InputNumber>
+    <label>Name:</label>
+    <InputText @bind-Value=nam.Name></InputText>
+    <button type="submit" class="btn btn-primary">Update</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public name nam{ get; set; }
+    // protected override void OnInitialized()
+    // {
+    //     service.GetNametoedit(nam);
+    // }
+    // public void upatedetails()
+    // {
+    //     service.updatename(nam);
+    // }
+}

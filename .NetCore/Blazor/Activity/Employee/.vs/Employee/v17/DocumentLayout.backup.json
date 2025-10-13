@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Activity\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\blazor\\activity\\employee\\employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\pages\\display.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\blazor\\activity\\employee\\employee\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF361316-DD52-4F14-8934-9FF20189E63C}|Employee\\Employee.csproj|solutionrelative:employee\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Employee\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Index.razor",
+              "RelativeToolTip": "Employee\\Pages\\Index.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:17:23.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display.razor",
+              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
+              "RelativeDocumentMoniker": "Employee\\Pages\\Display.razor",
+              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Blazor\\Activity\\Employee\\Employee\\Pages\\Display.razor",
+              "RelativeToolTip": "Employee\\Pages\\Display.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:04:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿@page "/"
+@using Exercise_Blazor.Services
+@using Microsoft.EntityFrameworkCore;
+@using Exercise_Blazor.Model;
+@inject JobDetailServices JobService;
+<style>
+    .aside
+    {
+        background-color:antiquewhite;
+    }
+    .card
+    {
+        text-align:right;
+        
+        font-size:medium;
+        font-weight:bold;
+        
+    }
+</style>
+<div class="d-flex h-100 row g-4">
+    @* <div class="mainbar"></div> *@
+    <h3>Job Registrtion</h3>
+    <EditForm Model="@newJob" OnValidSubmit="addJob">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <label class="form-label d-block bg-gradient p-1">Job Title</label>
+        <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newJob.JobTitle />
+        <label class="form-label d-block bg-gradient p-1">Job Description</label>
+        <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newJob.JobDescription />
+        <label class="form-label d-block bg-gradient p-1">Salary</label>
+        <InputNumber class="form-control d-block bg-light p-1 border-1" @bind-Value=@newJob.Salary />
+        <label class="form-label d-block bg-gradient p-1">Experience</label>
+        <InputNumber class="form-control d-block bg-light p-1 border-1" @bind-Value=@newJob.Experience />
+        <label class="form-label d-block bg-gradient p-1">Type of Work</label>
+        <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newJob.TypeofWork />
+        <label class="form-label d-block bg-gradient p-1">Job Location</label>
+        <InputText class="form-control d-block bg-light p-1 border-1" @bind-Value=@newJob.Location /><br />
+        <button class="btn btn-primary">Register Job</button>
+        <a class="btn btn-primary" href="/Index">View Jobs</a>
+    </EditForm>
+
+
+</div>
+
+
+@code {
+    JobDetail newJob;
+    protected override void OnInitialized()
+    {
+        newJob = new JobDetail();
+    }
+    public void addJob()
+    {
+        JobService.JobRegistraton(newJob);
+
+    }
+
+}
