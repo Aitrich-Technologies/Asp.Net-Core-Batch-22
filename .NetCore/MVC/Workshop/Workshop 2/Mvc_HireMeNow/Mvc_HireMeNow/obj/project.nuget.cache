@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34Wop7/+Wxw=",
+  "dgSpecHash": "p5+zL2kRoVE=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj",
+  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

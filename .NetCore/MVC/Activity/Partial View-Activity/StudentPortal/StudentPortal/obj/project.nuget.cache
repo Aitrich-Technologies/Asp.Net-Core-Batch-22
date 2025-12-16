@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WOZKjjB5Qw=",
+  "dgSpecHash": "1VvpAGEw97k=",
   "success": true,
-  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
+  "projectFilePath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Activity\\Partial View-Activity\\StudentPortal\\StudentPortal\\StudentPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

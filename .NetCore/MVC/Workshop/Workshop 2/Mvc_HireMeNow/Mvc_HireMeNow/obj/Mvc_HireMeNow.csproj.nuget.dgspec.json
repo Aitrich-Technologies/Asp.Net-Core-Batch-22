@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj": {}
+    "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj": {}
   },
   "projects": {
-    "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj": {
+    "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj",
+        "projectUniqueName": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj",
         "projectName": "Mvc_HireMeNow",
-        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj",
+        "projectPath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Mvc_HireMeNow.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\obj\\",
+        "outputPath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

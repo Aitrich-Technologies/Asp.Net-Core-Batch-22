@@ -1,0 +1,15 @@
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Reeshma\.netCore Bootcamp\.NetCore-FS-15\Chapter 10\Activity\JobCRUD\Domain\obj\Debug\net8.0\ref\Domain.dll

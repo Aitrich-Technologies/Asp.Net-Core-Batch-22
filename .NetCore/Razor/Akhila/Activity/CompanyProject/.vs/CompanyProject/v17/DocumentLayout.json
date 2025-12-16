@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\pages\\companypages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\services\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:services\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\pages\\companypages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\pages\\companypages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\pages\\companypages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\pages\\companypages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\pages\\companypages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\services\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:services\\companyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\pages\\companypages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\pages\\companypages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\pages\\companypages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\pages\\companypages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:pages\\companypages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\companyproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\companyproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:companyproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\dto\\companyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\dto\\companyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:dto\\companyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\razor\\companyproject\\model\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\akhila\\activity\\companyproject\\model\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BDED5E0-C031-41EE-A49F-4DA9313A1CFF}|CompanyProject.csproj|solutionrelative:model\\companyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,122 +62,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\CompanyPages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\CompanyPages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T07:30:26.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CompanyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Repository\\CompanyRepository.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Repository\\CompanyRepository.cs",
               "RelativeDocumentMoniker": "Repository\\CompanyRepository.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Repository\\CompanyRepository.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Repository\\CompanyRepository.cs",
               "RelativeToolTip": "Repository\\CompanyRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAxAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T07:27:29.865Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\CompanyPages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml.cs",
               "RelativeToolTip": "Pages\\CompanyPages\\Login.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAywCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T12:05:09.621Z",
+              "WhenOpened": "2025-08-07T12:05:09.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cshtml.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CompanyPages\\Registration.cshtml.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml.cs",
+              "RelativeToolTip": "Pages\\CompanyPages\\Registration.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:27:20.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyServices.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Services\\CompanyServices.cs",
+              "RelativeDocumentMoniker": "Services\\CompanyServices.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Services\\CompanyServices.cs",
+              "RelativeToolTip": "Services\\CompanyServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:56:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServicesExtension.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:34:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CompanyPages\\Registration.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml",
+              "RelativeToolTip": "Pages\\CompanyPages\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T10:23:46.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:11:06.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Registration.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\CompanyPages\\Registration.cshtml.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml.cs",
-              "RelativeToolTip": "Pages\\CompanyPages\\Registration.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T10:27:20.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompanyServices.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Services\\CompanyServices.cs",
-              "RelativeDocumentMoniker": "Services\\CompanyServices.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Services\\CompanyServices.cs",
-              "RelativeToolTip": "Services\\CompanyServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T11:56:57.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationServicesExtension.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Extensions\\ApplicationServicesExtension.cs",
-              "RelativeDocumentMoniker": "Extensions\\ApplicationServicesExtension.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Extensions\\ApplicationServicesExtension.cs",
-              "RelativeToolTip": "Extensions\\ApplicationServicesExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T10:34:05.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml",
-              "RelativeDocumentMoniker": "Pages\\CompanyPages\\Registration.cshtml",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Registration.cshtml",
-              "RelativeToolTip": "Pages\\CompanyPages\\Registration.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CompanyPages\\Index.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\CompanyPages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T10:23:46.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T11:11:06.624Z"
+              "WhenOpened": "2025-08-12T07:30:26.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Model\\ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Model\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Model\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Model\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Model\\ApplicationDBContext.cs",
               "RelativeToolTip": "Model\\ApplicationDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\CompanyPages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Pages\\CompanyPages\\Login.cshtml",
               "RelativeToolTip": "Pages\\CompanyPages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -199,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CompanyProject.csproj",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\CompanyProject.csproj",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\CompanyProject.csproj",
               "RelativeDocumentMoniker": "CompanyProject.csproj",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\CompanyProject.csproj",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\CompanyProject.csproj",
               "RelativeToolTip": "CompanyProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -211,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "CompanyUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Dto\\CompanyUserDto.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Dto\\CompanyUserDto.cs",
               "RelativeDocumentMoniker": "Dto\\CompanyUserDto.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Dto\\CompanyUserDto.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Dto\\CompanyUserDto.cs",
               "RelativeToolTip": "Dto\\CompanyUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "CompanyUser.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Model\\CompanyUser.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Model\\CompanyUser.cs",
               "RelativeDocumentMoniker": "Model\\CompanyUser.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Razor\\CompanyProject\\Model\\CompanyUser.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Akhila\\Activity\\CompanyProject\\Model\\CompanyUser.cs",
               "RelativeToolTip": "Model\\CompanyUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

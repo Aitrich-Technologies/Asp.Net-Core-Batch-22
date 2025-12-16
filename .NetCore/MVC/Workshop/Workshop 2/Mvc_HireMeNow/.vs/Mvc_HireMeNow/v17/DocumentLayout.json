@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\15.batch 15\\.netcore-fs-15\\chapter 9\\workshop\\workshop 2\\mvc_hiremenow\\mvc_hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\mvc\\workshop\\workshop 2\\mvc_hiremenow\\mvc_hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|solutionrelative:mvc_hiremenow\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\mvc\\workshop\\workshop 2\\mvc_hiremenow\\mvc_hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|solutionrelative:mvc_hiremenow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\mvc\\workshop\\workshop 2\\mvc_hiremenow\\mvc_hiremenow\\migrations\\20251111102752_dfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE7134B-1357-471D-B751-4B0E6017FBC0}|Mvc_HireMeNow\\Mvc_HireMeNow.csproj|solutionrelative:mvc_hiremenow\\migrations\\20251111102752_dfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251111102752_dfg.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Migrations\\20251111102752_dfg.cs",
+              "RelativeDocumentMoniker": "Mvc_HireMeNow\\Migrations\\20251111102752_dfg.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Migrations\\20251111102752_dfg.cs",
+              "RelativeToolTip": "Mvc_HireMeNow\\Migrations\\20251111102752_dfg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:27:52.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\appsettings.json",
+              "RelativeDocumentMoniker": "Mvc_HireMeNow\\appsettings.json",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\appsettings.json",
+              "RelativeToolTip": "Mvc_HireMeNow\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T10:10:59.304Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PublicController.cs",
-              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Controllers\\PublicController.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Controllers\\PublicController.cs",
               "RelativeDocumentMoniker": "Mvc_HireMeNow\\Controllers\\PublicController.cs",
-              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\15.batch 15\\.NetCore-FS-15\\Chapter 9\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\MVC\\Workshop\\Workshop 2\\Mvc_HireMeNow\\Mvc_HireMeNow\\Controllers\\PublicController.cs",
               "RelativeToolTip": "Mvc_HireMeNow\\Controllers\\PublicController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAcAAAAOAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswB8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T06:45:23.788Z",
               "EditorCaption": ""
