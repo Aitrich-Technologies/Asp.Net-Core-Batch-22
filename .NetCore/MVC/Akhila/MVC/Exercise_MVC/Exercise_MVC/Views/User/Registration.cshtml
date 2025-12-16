@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+@model Exercise_MVC.Models.User
+<form asp-action="Registration" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <label>First Name</label>
+            <input asp-for="First_Name" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+            <label>Last Name</label>
+            <input asp-for="Last_Name" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <label>Email</label>
+            <input asp-for="Email" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+            <label>Mobile Number</label>
+            <input asp-for="Phone_Number" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <label>Password</label>
+            <input asp-for="Password" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+            <label>Confirm Password</label>
+            <input asp-for="Confirm_Password" class="form-control" required />
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label>Gender</label>
+                <input type="radio" name="Gender" value="Male" /> Male
+                <input type="radio" name="Gender" value="Female" /> Female
+            </div>
+        </div>
+        <div class="col-md-12">
+            <button class="btn btn-primary" type="submit">Register Now</button>
+            <a class="btn btn-primary" asp-action="Login">Login</a>
+        </div>
+    </div>
+</form>
+
