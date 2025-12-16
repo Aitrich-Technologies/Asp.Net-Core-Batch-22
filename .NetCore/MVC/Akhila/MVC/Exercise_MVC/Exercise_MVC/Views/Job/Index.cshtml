@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Exercise_MVC.Models.Job>
+<h1> Jobs </h1>
+<div class="container-fluid mt-3">
+    <div class="row">
+
+        
+        <div class="col-md-4 border-right" style="height:90vh; overflow-y:auto;">
+            <h5 class="mb-3">Jobs</h5>
+
+            @foreach (var job in Model)
+            {
+                <a asp-action="loadjob" asp-route-id="@job.ID">
+                <div class="card mb-2 job-item" >
+                    <div class="card-body p-2">
+                        <h6 class="m-0">@job.Title</h6>
+                        <small class="text-muted">@job.Location</small><br />
+                        <span class="badge bg-primary">@job.Description</span>
+                        <span class="badge bg-secondary">@job.Salary</span>
+                        
+                    </div>
+                </div>
+                </a>
+            }
+            @* <a asp-controller="User" asp-acton="Profile">Update Profile</a> *@
+            <a asp-controller="User" asp-action="Profile">Update Profile</a>
+        </div>
+
+     
+        @* <div class="col-md-8" id="jobDetails">
+            <h5>Job Details</h5>
+            @Html.Partial("_loadjob",Model);
+        </div>  *@
+
+    </div>
+</div>
+
