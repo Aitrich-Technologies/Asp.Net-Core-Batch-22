@@ -1,0 +1,39 @@
+﻿@model List<JobPortal.Models.Job>
+@using Microsoft.AspNetCore.Http
+
+@{
+    var userEmail = @Context.Session.GetString("UserEmail");
+}
+@{
+    ViewData["Title"] = "JobList";
+    Layout = "_Layout";
+}
+<style>
+    table,th,td,tr{
+         border:solid blue;
+        }
+</style>
+<h1>List of All Job </h1>
+<table>
+    <tr><th>JobTitle</th>
+        <th>Description</th>
+        <th>Location</th>
+        <th>Salary</th></tr>
+        @foreach(var job in Model)
+        {
+        <tr>
+            <td>@job.Title</td>
+            <td>@job.Description</td>
+            <td>@job.Location</td>
+            <td>@job.Salary</td>
+            <td>
+                <button class="btn btn-primary">Apply</button>
+               
+            </td>
+        </tr>
+        }
+</table>
+@if (userEmail == "admin@gmail.com")
+{
+    <a class="btn btn-primary" href="JobRegistrtion">Add Job</a>
+}
