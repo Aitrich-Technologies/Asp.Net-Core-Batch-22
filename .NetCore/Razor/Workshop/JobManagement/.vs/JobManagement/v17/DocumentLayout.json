@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Workshop\\JobManagement\\",
+  "WorkspaceRootPath": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Workshop\\JobManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|c:\\users\\rithi\\desktop\\aitrichrepo\\asp.net-core-batch-22\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\reeshma\\.netcore bootcamp\\asp.net-core-batch-22\\.netcore\\razor\\workshop\\jobmanagement\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "JobManagement\\Model\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\rithi\\Desktop\\AitrichRepo\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Reeshma\\.netCore Bootcamp\\Asp.Net-Core-Batch-22\\.NetCore\\Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
               "RelativeToolTip": "JobManagement\\Model\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T10:07:42.456Z",
               "EditorCaption": ""

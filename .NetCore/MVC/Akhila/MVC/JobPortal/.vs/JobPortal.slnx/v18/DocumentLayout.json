@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\auth\\registration_jobprovider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\auth\\registration_jobprovider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\auth\\publiclogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\auth\\publiclogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\job\\jobregistrtion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\job\\jobregistrtion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\repository\\jobportalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\repository\\jobportalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\service\\jobportalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\service\\jobportalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\wwwroot\\admin\\styles\\adminstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\wwwroot\\admin\\styles\\adminstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\models\\jobportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\models\\jobportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|c:\\users\\akhil\\onedrive\\desktop\\aitrichrepo\\akhila-pc\\mvc\\jobportal\\jobportal\\jobportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9373D50C-FDF2-44FB-A83D-17AB5377B637}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\jobportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobPortalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Repository\\JobPortalRepository.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Repository\\JobPortalRepository.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Repository\\JobPortalRepository.cs",
+              "RelativeToolTip": "JobPortal\\Repository\\JobPortalRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:33:30.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:53:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Auth\\PublicLogin.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Auth\\PublicLogin.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Auth\\PublicLogin.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Auth\\PublicLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T12:06:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobRegistrtion.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Job\\JobRegistrtion.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Job\\JobRegistrtion.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Job\\JobRegistrtion.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Job\\JobRegistrtion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:05:24.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration_Jobprovider.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Auth\\Registration_Jobprovider.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Auth\\Registration_Jobprovider.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Auth\\Registration_Jobprovider.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Auth\\Registration_Jobprovider.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T12:06:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Job\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Job\\Index.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Job\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T09:48:57.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobPortal\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:11:34.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobPortalService.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Service\\JobPortalService.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Service\\JobPortalService.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Service\\JobPortalService.cs",
+              "RelativeToolTip": "JobPortal\\Service\\JobPortalService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:37:04.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Program.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Program.cs",
+              "RelativeToolTip": "JobPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:01:57.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "JobPortal\\Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:04:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminStyle.css",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\wwwroot\\Admin\\Styles\\AdminStyle.css",
+              "RelativeDocumentMoniker": "JobPortal\\wwwroot\\Admin\\Styles\\AdminStyle.css",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\wwwroot\\Admin\\Styles\\AdminStyle.css",
+              "RelativeToolTip": "JobPortal\\wwwroot\\Admin\\Styles\\AdminStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-08T09:41:19.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:33:17.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T11:16:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobPortalDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Models\\JobPortalDbcontext.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Models\\JobPortalDbcontext.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Models\\JobPortalDbcontext.cs",
+              "RelativeToolTip": "JobPortal\\Models\\JobPortalDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:02:17.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Models\\User.cs",
+              "RelativeToolTip": "JobPortal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:03:06.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "JobPortal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "JobPortal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T11:23:37.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "JobPortal\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:11:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Dto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Dto\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Dto\\UserLoginDto.cs",
+              "RelativeToolTip": "JobPortal\\Dto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:20:24.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JobPortal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JobPortal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T09:58:28.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\Models\\Job.cs",
+              "RelativeToolTip": "JobPortal\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:16:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\JobPortal.csproj",
+              "RelativeDocumentMoniker": "JobPortal\\JobPortal.csproj",
+              "ToolTip": "C:\\Users\\akhil\\OneDrive\\Desktop\\AitrichRepo\\AKHILA-PC\\MVC\\JobPortal\\JobPortal\\JobPortal.csproj",
+              "RelativeToolTip": "JobPortal\\JobPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T10:36:29.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

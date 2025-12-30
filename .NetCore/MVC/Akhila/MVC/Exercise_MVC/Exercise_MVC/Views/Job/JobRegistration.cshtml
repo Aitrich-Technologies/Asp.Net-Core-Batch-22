@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Exercise_MVC.Models.Job
+<h1>JobRegistration</h1>
+<form asp-action="JobRegistration" method="post">
+    <div class="row">
+        <div class="col-md-6">
+            <label>Title</label>
+            <input asp-for="Title" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <label>Skills</label>
+            <input asp-for="Skills" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <label>Description</label>
+            <input asp-for="Description" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <label>Location</label>
+            <input asp-for="Location" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <label>Salary</label>
+            <input asp-for="Salary" class="form-control" required />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <button type="submit" class="btn btn-primary">Register Job</button>
+        </div>
+    </div> 
+</form>

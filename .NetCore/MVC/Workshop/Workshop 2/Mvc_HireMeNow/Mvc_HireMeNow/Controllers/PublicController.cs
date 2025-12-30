@@ -29,8 +29,8 @@ namespace Mvc_HireMeNow.Controllers
 			}
 			catch
 			{
-				return View();
-			}
+                return RedirectToAction("Login");
+            }
 		}
 		[HttpGet]
 		// GET:  PublicController

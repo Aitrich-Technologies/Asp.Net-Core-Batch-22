@@ -331,7 +331,7 @@ namespace Mvc_HireMeNow.Migrations
                     b.Property<string>("Phone")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("Role")
+                    b.Property<int?>("Roles")
                         .HasColumnType("int");
 
                     b.Property<string>("Status")
