@@ -9,6 +9,7 @@ namespace UnitTestSample.Test
     public class EvenOrOddNumberTest
     {
         //Naming Convention - ClassName_MethodName_ExpectedResult
+        [fact]
         public static void EvenOrOddNumber_ReturnsEvenOrOddNumber_ReturnEvenNumber()
         {
             try

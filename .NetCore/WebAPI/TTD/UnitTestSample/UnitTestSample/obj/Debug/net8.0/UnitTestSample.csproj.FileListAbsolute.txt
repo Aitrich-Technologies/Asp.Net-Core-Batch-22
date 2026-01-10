@@ -13,3 +13,19 @@ C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\WebAPI
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
 C:\Users\razal\Desktop\GIT\Batch -17\.NetCore-AngularBootcap--17\.netCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.exe
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.deps.json
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.runtimeconfig.json
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\bin\Debug\net8.0\UnitTestSample.pdb
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfoInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.AssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.CoreCompileInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.sourcelink.json
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\refint\UnitTestSample.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.pdb
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.genruntimeconfig.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\ref\UnitTestSample.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\WebAPI\TTD\UnitTestSample\UnitTestSample\obj\Debug\net8.0\UnitTestSample.csproj.AssemblyReference.cache
