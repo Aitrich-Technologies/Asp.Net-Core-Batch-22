@@ -710,39 +710,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Laptop\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\razal\\.nuget\\packages\\": {},
->>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
+    "C:\\Users\\Neethu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
+      "projectUniqueName": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
       "projectName": "SendMail",
-      "projectPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
-      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Batch17Aitrich\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
-      "projectName": "SendMail",
-      "projectPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
-      "packagesPath": "C:\\Users\\razal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razal\\Desktop\\GIT\\Batch -17\\.NetCore-AngularBootcap--17\\.netCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\obj\\",
->>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
+      "projectPath": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\SendMail.csproj",
+      "packagesPath": "C:\\Users\\Neethu\\.nuget\\packages\\",
+      "outputPath": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\razal\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
+        "C:\\Users\\Neethu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -769,7 +753,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -807,12 +791,16 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
->>>>>>> e406f7402864c6a66045a90917ef814ff198ca7a
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Asp.Net-Core-Batch-22\\.NetCore\\WebAPI\\Activity\\SendMailWithHtmlContent\\SendMail\\SendMail\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
