@@ -9,19 +9,19 @@ using System.Security.Claims;
 
 namespace Domain.Service.Authuser
 {
-    public class AuthUserRepository: IAuthUserRepository
+    public class AuthUserRepository : IAuthUserRepository
     {
         protected readonly DbHireMeNowWebApiContext _context;
         IMapper mapper;
         private readonly IConfiguration _configuration;
-        public AuthUserRepository(DbHireMeNowWebApiContext dbContext,IMapper _mapper, IConfiguration configuration)
+        public AuthUserRepository(DbHireMeNowWebApiContext dbContext, IMapper _mapper, IConfiguration configuration)
         {
             _context = dbContext;
             mapper = _mapper;
             _configuration = configuration;
         }
 
-           
+
 
         public string? CreateToken(AuthUser user)
         {
@@ -60,7 +60,7 @@ namespace Domain.Service.Authuser
         }
 
 
-       public async Task AddUserConnectionId(string email, string ConnectionId)
+        public async Task AddUserConnectionId(string email, string ConnectionId)
         {
             var userToUpdate = _context.AuthUsers.Where(e => e.Email == email).FirstOrDefault();
             if (userToUpdate != null)

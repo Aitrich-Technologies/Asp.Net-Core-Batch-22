@@ -11,9 +11,9 @@ namespace Domain.Service.Authuser.Interfaces
     {
         Task<AuthUser> AddAuthUser(AuthUser authUser);
 
-        
+
         string? CreateToken(AuthUser user);
         Task AddUserConnectionId(string email, string ConnectionId);
-        
+
     }
 }
