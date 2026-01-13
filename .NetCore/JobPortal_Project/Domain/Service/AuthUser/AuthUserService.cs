@@ -10,13 +10,13 @@ namespace Domain.Service.Authuser
 		private readonly IHttpContextAccessor _httpContextAccessor;
 		private readonly IAuthUserRepository _userRepository;
 
-		public AuthUserService(IHttpContextAccessor httpContextAccessor,IAuthUserRepository userRepository)
+		public AuthUserService(IHttpContextAccessor httpContextAccessor, IAuthUserRepository userRepository)
 		{
 			_httpContextAccessor = httpContextAccessor;
 			_userRepository = userRepository;
 		}
 
-        
 
-    }
+
+	}
 }

@@ -10,7 +10,8 @@ namespace JobPortal_Project.Extensions
         public static IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration config)
         {
             services.AddDbContext<DbHireMeNowWebApiContext>(options =>
-                options.UseSqlServer(config.GetConnectionString("DefaultConnection"))
+                options.UseSqlServer(config.GetConnectionString("DefaultConnection"),
+                sqlOptions => sqlOptions.MigrationsAssembly("Domain"))
             );
             services.AddScoped<IAuthUserRepository, AuthUserRepository>();
             //services.AddScoped<IAuthUserService, AuthUserService>();

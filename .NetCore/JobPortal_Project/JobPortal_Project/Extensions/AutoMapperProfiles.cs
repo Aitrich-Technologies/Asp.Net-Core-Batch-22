@@ -10,7 +10,7 @@ namespace HireMeNow_WebApi.Extensions
     {
         public AutoMapperProfiles()
         {
-          
+
         }
     }
 }
