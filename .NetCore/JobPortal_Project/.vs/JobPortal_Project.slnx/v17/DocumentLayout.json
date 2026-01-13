@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{385CC600-F738-B1D5-7249-60D6E9FAF978}|JobPortal_Project\\JobPortal_Project.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\jobportal_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{385CC600-F738-B1D5-7249-60D6E9FAF978}|JobPortal_Project\\JobPortal_Project.csproj|solutionrelative:jobportal_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\domain\\service\\signup\\signuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\service\\signup\\signuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\domain\\service\\signup\\interfaces\\isignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\service\\signup\\interfaces\\isignuprequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113100354_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Migrations\\20260113100354_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113095604_AddSignUpRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113082431_AddSignUpRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Migrations\\20260113082431_AddSignUpRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{385CC600-F738-B1D5-7249-60D6E9FAF978}|JobPortal_Project\\JobPortal_Project.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\jobportal_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{385CC600-F738-B1D5-7249-60D6E9FAF978}|JobPortal_Project\\JobPortal_Project.csproj|solutionrelative:jobportal_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{385CC600-F738-B1D5-7249-60D6E9FAF978}|JobPortal_Project\\JobPortal_Project.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\jobportal_project\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,6 +97,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\domain\\service\\signup\\dtos\\jobprovidersignuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\service\\signup\\dtos\\jobprovidersignuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\asp.net-core-batch-22\\.netcore\\jobportal_project\\domain\\migrations\\20260113100354_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20260113100354_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,19 +114,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260113100354_demo.cs",
-              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113100354_demo.cs",
-              "RelativeDocumentMoniker": "Domain\\Migrations\\20260113100354_demo.cs",
-              "ToolTip": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113100354_demo.cs",
-              "RelativeToolTip": "Domain\\Migrations\\20260113100354_demo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:03:54.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "20260113095604_AddSignUpRequest.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113095604_AddSignUpRequest.cs",
@@ -135,8 +122,7 @@
               "RelativeToolTip": "Domain\\Migrations\\20260113095604_AddSignUpRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T09:56:05.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T09:56:05.037Z"
             },
             {
               "$type": "Document",
@@ -148,12 +134,11 @@
               "RelativeToolTip": "Domain\\Models\\SignUpRequest.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T07:54:36.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T07:54:36.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ISignUpRequestService.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
@@ -161,12 +146,11 @@
               "RelativeToolTip": "Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T20:41:10.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T20:41:10.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SignUpRequestService.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\SignUp\\SignUpRequestService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\SignUp\\SignUpRequestService.cs",
@@ -179,6 +163,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "JobPortal_Project\\appsettings.json",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\appsettings.json",
+              "RelativeToolTip": "JobPortal_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-12T12:01:53.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260113100354_demo.cs",
+              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113100354_demo.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20260113100354_demo.cs",
+              "ToolTip": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113100354_demo.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20260113100354_demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:03:54.778Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "JobSeekerSignupRequestDto.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\SignUp\\DTOs\\JobSeekerSignupRequestDto.cs",
@@ -187,8 +196,7 @@
               "RelativeToolTip": "Domain\\Service\\SignUp\\DTOs\\JobSeekerSignupRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T20:34:57.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T20:34:57.375Z"
             },
             {
               "$type": "Document",
@@ -200,8 +208,7 @@
               "RelativeToolTip": "Domain\\Service\\AuthUser\\AuthUserRepository.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAnwEMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:58:46.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:58:46.738Z"
             },
             {
               "$type": "Document",
@@ -213,12 +220,11 @@
               "RelativeToolTip": "Domain\\Migrations\\20260113082431_AddSignUpRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T08:24:31.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:24:31.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ApplicationServiceExtensions.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "JobPortal_Project\\Extensions\\ApplicationServiceExtensions.cs",
@@ -226,12 +232,11 @@
               "RelativeToolTip": "JobPortal_Project\\Extensions\\ApplicationServiceExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T06:00:26.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T06:00:26.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "20260113081758_AddSignUpRequest.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113081758_AddSignUpRequest.cs",
               "RelativeDocumentMoniker": "Domain\\Migrations\\20260113081758_AddSignUpRequest.cs",
@@ -239,25 +244,11 @@
               "RelativeToolTip": "Domain\\Migrations\\20260113081758_AddSignUpRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T08:17:58.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:17:58.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\appsettings.json",
-              "RelativeDocumentMoniker": "JobPortal_Project\\appsettings.json",
-              "ToolTip": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\appsettings.json",
-              "RelativeToolTip": "JobPortal_Project\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-12T12:01:53.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20260113080746_demo.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Migrations\\20260113080746_demo.cs",
               "RelativeDocumentMoniker": "Domain\\Migrations\\20260113080746_demo.cs",
@@ -265,12 +256,11 @@
               "RelativeToolTip": "Domain\\Migrations\\20260113080746_demo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T08:07:46.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:07:46.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IEMailService.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\IEMailService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\IEMailService.cs",
@@ -278,12 +268,11 @@
               "RelativeToolTip": "Domain\\Service\\IEMailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T03:01:41.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T03:01:41.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "DbHireMeNowWebApiContext.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Models\\DbHireMeNowWebApiContext.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\DbHireMeNowWebApiContext.cs",
@@ -291,12 +280,11 @@
               "RelativeToolTip": "Domain\\Models\\DbHireMeNowWebApiContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T06:03:04.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T06:03:04.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "AutoMapperProfiles.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\Extensions\\AutoMapperProfiles.cs",
               "RelativeDocumentMoniker": "JobPortal_Project\\Extensions\\AutoMapperProfiles.cs",
@@ -304,12 +292,11 @@
               "RelativeToolTip": "JobPortal_Project\\Extensions\\AutoMapperProfiles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T06:00:38.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T06:00:38.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MailRequest.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Helpers\\MailRequest.cs",
               "RelativeDocumentMoniker": "Domain\\Helpers\\MailRequest.cs",
@@ -317,12 +304,11 @@
               "RelativeToolTip": "Domain\\Helpers\\MailRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T03:09:19.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T03:09:19.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "EmailService.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\EmailService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\EmailService.cs",
@@ -330,12 +316,11 @@
               "RelativeToolTip": "Domain\\Service\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T03:02:07.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T03:02:07.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "SignUpRequestRepository.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
@@ -343,12 +328,11 @@
               "RelativeToolTip": "Domain\\Service\\SignUp\\SignUpRequestRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T02:43:14.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T02:43:14.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "ISignUpRequestRepository.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
@@ -356,12 +340,11 @@
               "RelativeToolTip": "Domain\\Service\\SignUp\\Interfaces\\ISignUpRequestRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T20:41:34.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T20:41:34.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "AuthUserService.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\AuthUser\\AuthUserService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\AuthUserService.cs",
@@ -369,12 +352,11 @@
               "RelativeToolTip": "Domain\\Service\\AuthUser\\AuthUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:58:53.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:58:53.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "AuthUser.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Models\\AuthUser.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\AuthUser.cs",
@@ -382,12 +364,11 @@
               "RelativeToolTip": "Domain\\Models\\AuthUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T06:04:37.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T06:04:37.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "IAuthUserService.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\AuthUser\\Interfaces\\IAuthUserService.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\Interfaces\\IAuthUserService.cs",
@@ -395,12 +376,11 @@
               "RelativeToolTip": "Domain\\Service\\AuthUser\\Interfaces\\IAuthUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:58:38.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:58:38.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "IAuthUserRepository.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
@@ -408,12 +388,11 @@
               "RelativeToolTip": "Domain\\Service\\AuthUser\\Interfaces\\IAuthUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T05:58:27.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:58:27.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\Program.cs",
               "RelativeDocumentMoniker": "JobPortal_Project\\Program.cs",
@@ -421,12 +400,11 @@
               "RelativeToolTip": "JobPortal_Project\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T06:00:55.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T06:00:55.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "JobProviderSignupRequestDto.cs",
               "DocumentMoniker": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\Domain\\Service\\SignUp\\DTOs\\JobProviderSignupRequestDto.cs",
               "RelativeDocumentMoniker": "Domain\\Service\\SignUp\\DTOs\\JobProviderSignupRequestDto.cs",
@@ -434,8 +412,7 @@
               "RelativeToolTip": "Domain\\Service\\SignUp\\DTOs\\JobProviderSignupRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T20:34:33.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T20:34:33.011Z"
             }
           ]
         }
