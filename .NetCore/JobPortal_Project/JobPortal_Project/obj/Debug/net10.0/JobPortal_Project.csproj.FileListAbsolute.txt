@@ -329,3 +329,6 @@ D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\MailKit.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\MimeKit.dll

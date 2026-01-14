@@ -1,5 +1,58 @@
 [
   {
+    "ContainingType": "JobPortal_Project.API.JobProvider.JobProviderController",
+    "Method": "createJobProviderSignupRequest",
+    "RelativePath": "api/v1/Job-Provider/Signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "JobPortal_Project.API.JobProvider.RequestObjects.JobProviderSignupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JobPortal_Project.API.JobProvider.JobProviderController",
+    "Method": "createJobProviderSignupRequest",
+    "RelativePath": "api/v1/job-provider/signup/{jobProviderSignupRequestId}/set-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobProviderSignupRequestId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JobPortal_Project.API.JobProvider.JobProviderController",
+    "Method": "VerifyJobProviderEmail",
+    "RelativePath": "api/v1/job-provider/signup/{signupRequestId}/verify-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "signupRequestId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "JobPortal_Project.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

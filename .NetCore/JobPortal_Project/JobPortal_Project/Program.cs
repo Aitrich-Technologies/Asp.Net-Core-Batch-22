@@ -1,5 +1,8 @@
 //using HireMeNow_WebApi.Extensions;
 //using JobPortal_Project.Extensions;
+using Domain.Helpers;
+using HireMeNow_WebApi.Extensions;
+using JobPortal_Project.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.HttpLogging;
 using Microsoft.IdentityModel.Tokens;
@@ -10,9 +13,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 // Add services to the container.
-//builder.Services.AddApplicationServices(builder.Configuration);
-//builder.Services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
-//builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
+builder.Services.AddApplicationServices(builder.Configuration);
+builder.Services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
+builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
 builder.Services.AddControllers();
 builder.Services.AddSignalR();
 

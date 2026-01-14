@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Domain.Models
 {
-    public class SignUpRequest
+    public partial class SignUpRequest
     {
         [Key]
         [Required]
