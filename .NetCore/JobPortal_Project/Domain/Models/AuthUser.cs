@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Domain.Models;
 
-public partial class AuthUser:SystemUser
+public partial class AuthUser : SystemUser
 {
     public Guid Id { get; set; }
 

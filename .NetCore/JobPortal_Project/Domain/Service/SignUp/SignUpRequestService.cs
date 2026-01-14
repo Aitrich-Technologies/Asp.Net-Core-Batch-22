@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Domain.Models;
+using Domain.Helpers;
 
 namespace Domain.Service.SignUp
 {
@@ -26,8 +27,15 @@ namespace Domain.Service.SignUp
         }
         public async void CreateSignupRequest(JobSeekerSignupRequestDto data)
         {
-            var signuprequest = mapper.Map<SignUpRequest>(data);
-            //var signUpId=
+            var signUpRequest = mapper.Map<SignUpRequest>(data);
+            var signUpId = jobSeekerRepository.AddSignupRequest(signUpRequest);
+            MailRequest mailRequest = new MailRequest();
+            mailRequest.Subject = "HireMeNow SignUp Verification";
+            mailRequest.Body = "http://localhost:4200/set-password?signupid=" + signUpId.ToString();
+            mailRequest.ToEmail = signUpRequest.Email;
+            await emailService.SendEmailAsync(mailRequest);
+
         }
+        
     }
 }

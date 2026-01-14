@@ -1,0 +1,41 @@
+﻿using AutoMapper;
+using Domain.Service.Authuser.Interfaces;
+using Domain.Service.Login.DTOs;
+using Domain.Service.Login.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Domain.Service.Login
+{
+    public class LoginRequestService:ILoginRequestService
+    {
+        ILoginRequestRepository jobSeekerRepository;
+        IAuthUserRepository authUserRepository;
+        IMapper mapper;
+        public LoginRequestService(ILoginRequestRepository _jobSeekerRepository, IAuthUserRepository _authUserRepository, IMapper _mapper)
+        {
+            jobSeekerRepository = _jobSeekerRepository;
+            authUserRepository = _authUserRepository;
+            mapper = _mapper;
+        }
+        public JobSeekerLoginDto login(string email, string password)
+        {
+            var user=jobSeekerRepository.GetUserByEmailpassword(email, password);
+            if (user == null)
+            {
+                return null;
+            }
+            else
+            {
+                if ((password == user.Password))
+                {
+                    var userReturn = mapper.Map<JobSeekerLoginDto>(user);
+                    userReturn.Token = authUserRepository.CreateToken(user);
+                    return userReturn;
+                }
+                return null;
+            }
+        }
+    }
+}

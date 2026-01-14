@@ -10,7 +10,6 @@
     <Folder Include="Service\Job\" />
     <Folder Include="Service\JobProvider\" />
     <Folder Include="Service\JobSeeker\" />
-    <Folder Include="Service\Login\" />
     <Folder Include="Service\User\" />
   </ItemGroup>
 

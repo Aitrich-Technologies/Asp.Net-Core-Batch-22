@@ -41,6 +41,8 @@ public partial class DbHireMeNowWebApiContext : DbContext
 
     public virtual DbSet<Role> Roles { get; set; }
 
+    public virtual DbSet<SignUpRequest> SignUpRequests { get; set; }
+
     public virtual DbSet<Skill> Skills { get; set; }
 
     public virtual DbSet<SystemUser> SystemUsers { get; set; }
@@ -49,7 +51,7 @@ public partial class DbHireMeNowWebApiContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=LAPTOP-FAPBG4Q0;Initial Catalog=DB_HireMeNow_WebApi;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+        => optionsBuilder.UseSqlServer("Data Source=.\\MSSQLSERVER02;Initial Catalog=DB_HireMeNow_WebApi;Integrated Security=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -240,6 +242,14 @@ public partial class DbHireMeNowWebApiContext : DbContext
             entity.Property(e => e.Name)
                 .HasMaxLength(50)
                 .IsUnicode(false);
+        });
+
+        modelBuilder.Entity<SignUpRequest>(entity =>
+        {
+            entity.ToTable("SignUpRequest");
+
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
+            entity.Property(e => e.Email).HasMaxLength(450);
         });
 
         modelBuilder.Entity<Skill>(entity =>

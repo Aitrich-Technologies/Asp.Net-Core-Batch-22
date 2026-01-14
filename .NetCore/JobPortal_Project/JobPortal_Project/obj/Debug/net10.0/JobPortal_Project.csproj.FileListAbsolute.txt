@@ -329,3 +329,12 @@ D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.pdb
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.genruntimeconfig.cache
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\ref\JobPortal_Project.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.sourcelink.json
