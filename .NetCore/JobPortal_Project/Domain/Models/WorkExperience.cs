@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain.Models;
 
@@ -18,6 +19,6 @@ public partial class WorkExperience
     public DateTime ServiceStart { get; set; }
 
     public DateTime ServiceEnd { get; set; }
-
+    [ForeignKey("JobSeekerProfileId")]
     public virtual JobSeekerProfile JobSeekerProfile { get; set; } = null!;
 }

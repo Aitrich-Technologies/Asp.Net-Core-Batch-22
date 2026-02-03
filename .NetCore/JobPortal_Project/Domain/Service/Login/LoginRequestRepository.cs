@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Domain.Service.Login
 {
-    public class LoginRequestRepository:ILoginRequestRepository
+    public class LoginRequestRepository : ILoginRequestRepository
     {
         protected readonly DbHireMeNowWebApiContext _context;
         public LoginRequestRepository(DbHireMeNowWebApiContext dbContext)
@@ -16,13 +16,14 @@ namespace Domain.Service.Login
         }
         public AuthUser GetUserByEmail(string email)
         {
-            var user=_context.AuthUsers.FirstOrDefault(e=>e.Email == email);
+            var user = _context.AuthUsers.FirstOrDefault(e => e.Email == email);
             return user;
         }
         public AuthUser GetUserByEmailpassword(string email, string password)
         {
-            var user = _context.AuthUsers.FirstOrDefault(e => e.Email == email && e.Password == password);
-            return user;
+            var user = _context.AuthUsers.FirstOrDefault(e => e.Email == email);
+            if(user==null) return null;
+            return BCrypt.Net.BCrypt.Verify(password,user.Password)?user:null;
 
         }
     }

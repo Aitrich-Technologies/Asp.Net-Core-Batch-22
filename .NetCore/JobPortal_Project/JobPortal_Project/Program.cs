@@ -1,18 +1,21 @@
-//using HireMeNow_WebApi.Extensions;
-//using JobPortal_Project.Extensions;
+
+
+using Domain.Helpers;
+using JobPortal_Project.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.HttpLogging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi;
+using Swashbuckle.AspNetCore.Filters;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 // Add services to the container.
-//builder.Services.AddApplicationServices(builder.Configuration);
-//builder.Services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
-//builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
+builder.Services.AddApplicationServices(builder.Configuration);
+
+builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
 builder.Services.AddControllers();
 builder.Services.AddSignalR();
 
@@ -28,35 +31,34 @@ builder.Services.AddSwaggerGen(options =>
         Type = SecuritySchemeType.ApiKey
     });
 
-    //options.OperationFilter<SecurityRequirementsOperationFilter>();
+    options.OperationFilter<SecurityRequirementsOperationFilter>();
 });
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
     {
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuerSigningKey = true,
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8
-                .GetBytes(builder.Configuration.GetSection("AuthSettings:Token").Value)),
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration.GetSection("AuthSettings:Token").Value)),
             ValidateIssuer = false,
             ValidateAudience = false
         };
     });
-//builder.Services.AddCors(options => options.AddPolicy(name: "NgOrigins",
-//policy =>
-//{
-//    policy.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
-//}));
+builder.Services.AddCors(options => options.AddPolicy(name: "NgOrigins",
+policy =>
+{
+    policy.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+}));
 
 
-//builder.Services.AddHttpLogging(logging =>
-//{
-//    logging.LoggingFields = HttpLoggingFields.All;
+builder.Services.AddHttpLogging(logging =>
+{
+    logging.LoggingFields = HttpLoggingFields.All;
 
-//    logging.MediaTypeOptions.AddText("application/javascript");
-//    logging.RequestBodyLogLimit = 4096;
-//    logging.ResponseBodyLogLimit = 4096;
+    logging.MediaTypeOptions.AddText("application/javascript");
+    logging.RequestBodyLogLimit = 4096;
+    logging.ResponseBodyLogLimit = 4096;
 
-//});
+});
 
 
 var app = builder.Build();
@@ -65,7 +67,7 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-app.UseSwaggerUI();
+    app.UseSwaggerUI();
 }
 
 
@@ -75,5 +77,4 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-//app.MapHub<ChatHub>("/hubs/chat");
 app.Run();

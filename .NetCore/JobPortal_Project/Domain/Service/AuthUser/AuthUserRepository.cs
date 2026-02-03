@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Domain.Models;
 using Domain.Service.Authuser.Interfaces;
+using Domain.Service.SignUp;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -14,6 +15,7 @@ namespace Domain.Service.Authuser
         protected readonly DbHireMeNowWebApiContext _context;
         IMapper mapper;
         private readonly IConfiguration _configuration;
+        //private readonly SignUpRequestRepository _signUpRepo;
         public AuthUserRepository(DbHireMeNowWebApiContext dbContext, IMapper _mapper, IConfiguration configuration)
         {
             _context = dbContext;
@@ -40,7 +42,7 @@ namespace Domain.Service.Authuser
             List<Claim> claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, user.FirstName),
-                new Claim(ClaimTypes.Email, user.Email),
+                new Claim(ClaimTypes.Email,user.Email),
                 new Claim(ClaimTypes.Sid, user.Id.ToString()),
                 new Claim(ClaimTypes.Role, user.Role.ToString())
             };
@@ -72,11 +74,27 @@ namespace Domain.Service.Authuser
                 _context.SaveChanges();
             }
         }
-
-        //jobSeeker's method
-        public Task<AuthUser> AddAuthUser(AuthUser authUser)
+        public async Task<AuthUser> AddAuthUser(AuthUser authUser)
         {
-            throw new NotImplementedException();
+            authUser.Role = Enums.Role.JOB_SEEKER;
+            await _context.AuthUsers.AddAsync(authUser);
+            await _context.SaveChangesAsync();
+            Models.JobSeeker jobSeeker = mapper.Map<Models.JobSeeker>(authUser);
+            jobSeeker.SystemUserId = authUser.Id;
+            await _context.JobSeekers.AddAsync(jobSeeker);
+            await _context.SaveChangesAsync();
+            var SeekerId = jobSeeker.Id;
+            JobSeekerProfile seekerProfile = new()
+            {
+                Id = Guid.NewGuid(),
+                JobSeekerId = SeekerId
+            };
+
+            await _context.JobSeekerProfiles.AddAsync(seekerProfile);
+            await _context.SaveChangesAsync(); ;
+            return authUser;
+                        
         }
+
     }
 }

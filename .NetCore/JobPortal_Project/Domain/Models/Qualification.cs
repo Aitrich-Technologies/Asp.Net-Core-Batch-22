@@ -10,10 +10,9 @@ public partial class Qualification
     public string Name { get; set; } = null!;
 
     public string Description { get; set; } = null!;
+    public ICollection<ProfileQualification> ProfileQualification { get; set; } = null!;
+    public ICollection<JobPostQualification> JobPostQualifications { get; set; }
 
-    public Guid? JobseekerProfileId { get; set; }
 
-    public Guid? JobPostId { get; set; }
 
-    public virtual JobPost? JobPost { get; set; }
 }

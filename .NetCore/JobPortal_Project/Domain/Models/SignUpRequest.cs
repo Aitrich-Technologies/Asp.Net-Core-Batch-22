@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Domain.Enums;
+using System;
 using System.Collections.Generic;
 
 namespace Domain.Models;
 
 public partial class SignUpRequest
 {
-    public Guid Id { get; set; }
+    public Guid Id { get; set; }=Guid.NewGuid();
 
     public string? UserName { get; set; }
 
@@ -17,5 +18,5 @@ public partial class SignUpRequest
 
     public string Email { get; set; } = null!;
 
-    public int Status { get; set; }
+    public Status Status { get; set; }
 }

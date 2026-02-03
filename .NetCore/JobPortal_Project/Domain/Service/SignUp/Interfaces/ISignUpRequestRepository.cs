@@ -7,6 +7,13 @@ namespace Domain.Service.SignUp.Interfaces
 {
     public interface ISignUpRequestRepository
     {
-        Guid AddSignupRequest(SignUpRequest signUpRequest);
+
+        Task AddJobSeekerAsync(Models.JobSeeker jobseeker);
+        Task UpdateJobSeekerAsync(Models.JobSeeker jobseeker);
+        Task<Guid> AddSignupRequest(SignUpRequest signUpRequest);
+
+        Task<SignUpRequest> GetSignupRequestByIdAsync(Guid jobSeekerSignupRequestId);
+        Task UpdateSignupRequest(SignUpRequest signUpRequest);
+
     }
 }

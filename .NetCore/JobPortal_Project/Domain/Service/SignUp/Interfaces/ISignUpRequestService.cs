@@ -8,7 +8,7 @@ namespace Domain.Service.SignUp.Interfaces
     public interface ISignUpRequestService
     {
         Task CreateJobseeker(Guid jobSeekerSignupRequestId, string password);
-        void CreateSignupRequest(JobSeekerSignupRequestDto data);
+        Task CreateSignupRequest(JobSeekerSignupRequestDto data);
         Task<bool> VerifyEmailAsync(Guid jobSeekerSignupRequestId);
     }
 }
