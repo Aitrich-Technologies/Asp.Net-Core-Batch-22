@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jNIf77Thhj8=",
+  "dgSpecHash": "rIVp5ujQBgg=",
   "success": true,
   "projectFilePath": "D:\\Asp.Net-Core-Batch-22\\.NetCore\\JobPortal_Project\\JobPortal_Project\\JobPortal_Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Neethu\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Neethu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Neethu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Neethu\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Neethu\\.nuget\\packages\\bouncycastle.cryptography\\2.6.1\\bouncycastle.cryptography.2.6.1.nupkg.sha512",
     "C:\\Users\\Neethu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Neethu\\.nuget\\packages\\mailkit\\4.14.1\\mailkit.4.14.1.nupkg.sha512",

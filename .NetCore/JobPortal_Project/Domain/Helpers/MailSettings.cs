@@ -12,6 +12,8 @@ namespace Domain.Helpers
         public string Host { get; set; }
         public int Port { get; set; }
         public bool UseSSL { get; set; }
-        public MailSettings? Value { get; internal set; }
+        public string FromMail { get; set; }
+
+        //public MailSettings? Value { get; internal set; }
     }
 }

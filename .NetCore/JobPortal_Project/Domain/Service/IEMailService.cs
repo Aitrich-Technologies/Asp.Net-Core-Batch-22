@@ -7,6 +7,7 @@ namespace Domain.Service
 {
     public interface IEMailService
     {
+
         Task SendEmailAsync(MailRequest mailRequest);
     }
 }

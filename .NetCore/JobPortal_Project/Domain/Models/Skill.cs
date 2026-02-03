@@ -5,15 +5,12 @@ namespace Domain.Models;
 
 public partial class Skill
 {
-    public Guid Id { get; set; }
+    public Guid Id { get; set; }= Guid.NewGuid();
 
     public string Name { get; set; } = null!;
 
     public string Description { get; set; } = null!;
 
-    public Guid JobSeekerProfileId { get; set; }
-
-    public Guid JobPost { get; set; }
-
-    public virtual JobPost JobPostNavigation { get; set; } = null!;
+   public ICollection<JobPostSkill> jobPostSkills { get; set; }= new List<JobPostSkill>();
+    public ICollection<ProfileSkill> ProfileSkill { get; set; } = null!;
 }

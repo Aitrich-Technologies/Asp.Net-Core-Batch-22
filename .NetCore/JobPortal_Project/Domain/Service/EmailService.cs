@@ -9,13 +9,13 @@ using MimeKit;
 
 namespace Domain.Service
 {
-    public class EmailService:IEMailService
+    public class EmailService : IEMailService
     {
         private readonly MailSettings mailSettings;
         private readonly IConfiguration configuration;
         public EmailService(IOptions<MailSettings> mailsettings, IConfiguration configuration)
         {
-            this.mailSettings = mailSettings.Value;
+            this.mailSettings = mailsettings.Value;
             this.configuration = configuration;
         }
         public async Task SendEmailAsync(MailRequest mailRequest)
@@ -23,7 +23,7 @@ namespace Domain.Service
             try
             {
                 var FromMail = configuration.GetSection("MailSettings")["FromMail"];
-                var DisplayName= configuration.GetSection("MailSettings")["DisplayName"];
+                var DisplayName = configuration.GetSection("MailSettings")["DisplayName"];
                 var email = new MimeMessage();
                 email.From.Add(new MailboxAddress(DisplayName, FromMail));
                 email.To.Add(MailboxAddress.Parse(mailRequest.ToEmail));
@@ -33,13 +33,13 @@ namespace Domain.Service
                 builder.HtmlBody = mailRequest.Body;
                 email.Body = builder.ToMessageBody();
                 using var smtp = new SmtpClient();
-                smtp.Connect(mailSettings.Host, mailSettings.Port, mailSettings.UseSSL);
-                smtp.Authenticate(mailSettings.UserMail, mailSettings.Password);
+                await smtp.ConnectAsync(mailSettings.Host, mailSettings.Port, mailSettings.UseSSL);
+                await smtp.AuthenticateAsync(mailSettings.UserMail, mailSettings.Password);
                 await smtp.SendAsync(email);
-                smtp.Disconnect(true);
+                await smtp.DisconnectAsync(true);
 
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
             }
