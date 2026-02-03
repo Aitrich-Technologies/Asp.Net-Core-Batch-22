@@ -65,19 +65,7 @@ public partial class DbHireMeNowWebApiContext : DbContext
     
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        //modelBuilder.Entity<AuthUser>(entity =>
-        //{
-        //    entity.ToTable("AuthUser");
-
-        //    entity.Property(e => e.Id).ValueGeneratedNever();
-
-        //    entity.HasOne(d => d.IdNavigation).WithOne(p => p.AuthUserIdNavigation).HasForeignKey<AuthUser>(d => d.Id);
-
-        //    entity.HasOne(d => d.SystemUser).WithMany(p => p.AuthUserSystemUsers)
-        //        .HasForeignKey(d => d.SystemUserId)
-        //        .OnDelete(DeleteBehavior.ClientSetNull);
-        //});
-
+        
         modelBuilder.Entity<CompanyUser>(entity =>
         {
             entity.ToTable("CompanyUser");
