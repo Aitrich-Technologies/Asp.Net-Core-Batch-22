@@ -5,7 +5,7 @@ namespace Domain.Models;
 
 public partial class SystemUser
 {
-    public Guid Id { get; set; }
+    public Guid Id { get; set; }= Guid.NewGuid();
 
     public string? UserName { get; set; }
 
@@ -17,11 +17,8 @@ public partial class SystemUser
 
     public string Email { get; set; } = null!;
 
-    public int Role { get; set; }
-
-    public virtual AuthUser? AuthUserIdNavigation { get; set; }
-
-    public virtual ICollection<AuthUser> AuthUserSystemUsers { get; set; } = new List<AuthUser>();
-
+    public Enums.Role Role { get; set; }
     public virtual JobSeeker? JobSeeker { get; set; }
+
+
 }

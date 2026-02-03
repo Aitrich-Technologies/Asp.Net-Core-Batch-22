@@ -163,6 +163,15 @@ C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swa
 C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\AitrichRepo\PROJECT\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.AssemblyReference.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfoInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.AssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.csproj.CoreCompileInputs.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\AitrichRepo\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\obj\Debug\net10.0\JobPortal_Project.sourcelink.json
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\appsettings.Development.json
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\appsettings.json
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\JobPortal_Project.staticwebassets.endpoints.json
@@ -174,7 +183,10 @@ D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\AutoMapper.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Azure.Core.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Azure.Identity.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Humanizer.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\MailKit.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -203,6 +215,7 @@ D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.OpenApi.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\MimeKit.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Mono.TextTemplating.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Scrutor.dll
 D:\Asp.Net-Core-Batch-22\.NetCore\JobPortal_Project\JobPortal_Project\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll

@@ -72,11 +72,51 @@ namespace Domain.Service.Authuser
                 _context.SaveChanges();
             }
         }
+        public async Task<AuthUser> AddAuthUser(AuthUser authUser)
+        {
+            authUser.Role = Enums.Role.JOB_SEEKER;
+            await _context.AuthUsers.AddAsync(authUser);
+            await _context.SaveChangesAsync();
+            Models.JobSeeker jobSeeker = mapper.Map<Models.JobSeeker>(authUser);
+            jobSeeker.SystemUserId = authUser.Id;
+            await _context.JobSeekers.AddAsync(jobSeeker);
+            await _context.SaveChangesAsync();
+            var SeekerId = jobSeeker.Id;
+            JobSeekerProfile seekerProfile = new()
+            {
+                Id = Guid.NewGuid(),
+                JobSeekerId = SeekerId
+            };
+
+            await _context.JobSeekerProfiles.AddAsync(seekerProfile);
+            await _context.SaveChangesAsync(); 
+            return authUser;
+
+        }
 
         //jobSeeker's method
-        public Task<AuthUser> AddAuthUser(AuthUser authUser)
+        //public Task<AuthUser> AddAuthUser(AuthUser authUser)
+        //{
+        //    throw new NotImplementedException();
+        //}
+        //job Provider
+        public async Task<AuthUser> AddAuthUserJP(AuthUser authUser)
         {
-            throw new NotImplementedException();
+            authUser.Role= Enums.Role.JOB_PROVIDER;
+            await _context.AuthUsers.AddAsync(authUser);
+            Models.CompanyUser jobprovider = mapper.Map<Models.CompanyUser>(authUser);
+            Console.WriteLine(jobprovider.Role.GetType().Name);
+            Console.WriteLine(jobprovider.Role);
+
+            await _context.CompanyUsers.AddAsync(jobprovider);
+
+            await _context.SaveChangesAsync();
+            return authUser;
+
+        }
+        public async Task<CompanyUser> GetUser(Guid userid)
+        {
+            return await _context.CompanyUsers.FirstOrDefaultAsync(c => c.Id == userid);
         }
     }
 }

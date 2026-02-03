@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Domain.Enums;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace Domain.Service.Authuser.DTOs
 {
     public class AuthUserDTO
     {
-        public Guid JobseekerId { get; set; }
+        public Guid Id { get; set; }
         public string? UserName { get; set; }
 
         public string? FirstName { get; set; } = null!;
@@ -17,7 +18,7 @@ namespace Domain.Service.Authuser.DTOs
         public string? LastName { get; set; }
         public IFormFile? Image { get; set; } // Added for image upload
         public string? Phone { get; set; }
-
+        public Role Role { get; set; }
         public string? Password { get; set; }
     }
 }
